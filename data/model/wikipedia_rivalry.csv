@@ -1,0 +1,69 @@
+league,pair,article,tier,views_rivalry,views_team_a,views_team_b,interest
+nfl,Green Bay Packers vs Chicago Bears,Bears–Packers rivalry,1,590173,5982946,4941650,0.10854
+nfl,Minnesota Vikings vs Green Bay Packers,Packers–Vikings rivalry,1,188368,3789615,5982946,0.03956
+nfl,Chicago Bears vs Minnesota Vikings,Bears–Vikings rivalry,2,68605,4941650,3789615,0.01585
+nfl,Dallas Cowboys vs Philadelphia Eagles,Cowboys–Eagles rivalry,1,322463,6661309,6884344,0.04762
+nfl,Dallas Cowboys vs New York Giants,Cowboys–Giants rivalry,2,161367,6661309,4852597,0.02838
+nfl,New York Giants vs Philadelphia Eagles,Eagles–Giants rivalry,2,205479,4852597,6884344,0.03555
+nfl,Philadelphia Eagles vs Washington Commanders,Commanders–Eagles rivalry,3,84615,6884344,6068133,0.01309
+nfl,Pittsburgh Steelers vs Baltimore Ravens,Ravens–Steelers rivalry,1,263331,4952525,4334395,0.05684
+nfl,Pittsburgh Steelers vs Cincinnati Bengals,Bengals–Steelers rivalry,2,103674,4952525,4503879,0.02195
+nfl,Cleveland Browns vs Baltimore Ravens,Browns–Ravens rivalry,2,77899,5208797,4334395,0.01639
+nfl,Cleveland Browns vs Cincinnati Bengals,Bengals–Browns rivalry,2,130816,5208797,4503879,0.02701
+nfl,Baltimore Ravens vs Cincinnati Bengals,Bengals–Ravens rivalry,3,68364,4334395,4503879,0.01547
+nfl,New England Patriots vs Buffalo Bills,Bills–Patriots rivalry,3,137082,7132916,5670909,0.02155
+nfl,New England Patriots vs Miami Dolphins,Dolphins–Patriots rivalry,3,102842,7132916,3898932,0.0195
+nfl,Buffalo Bills vs New York Jets,Bills–Jets rivalry,3,55896,5670909,4387505,0.01121
+nfl,Kansas City Chiefs vs Las Vegas Raiders,Chiefs–Raiders rivalry,1,172294,8511765,5332749,0.02557
+nfl,Kansas City Chiefs vs Denver Broncos,Broncos–Chiefs rivalry,2,157529,8511765,4022999,0.02692
+nfl,Kansas City Chiefs vs Los Angeles Chargers,Chargers–Chiefs rivalry,3,71134,8511765,3890891,0.01236
+nfl,Las Vegas Raiders vs Los Angeles Chargers,Chargers–Raiders rivalry,3,96207,5332749,3890891,0.02112
+nfl,Denver Broncos vs Los Angeles Chargers,Broncos–Chargers rivalry,3,38773,4022999,3890891,0.0098
+nfl,San Francisco 49ers vs Seattle Seahawks,49ers–Seahawks rivalry,1,179792,6741314,3778455,0.03562
+nfl,Seattle Seahawks vs Los Angeles Rams,Rams–Seahawks rivalry,3,49332,3778455,7098686,0.00953
+nfl,New Orleans Saints vs Atlanta Falcons,Falcons–Saints rivalry,1,102425,2914008,2726545,0.03634
+nfl,New Orleans Saints vs Tampa Bay Buccaneers,Buccaneers–Saints rivalry,3,67720,2914008,5927600,0.01629
+nfl,Carolina Panthers vs Tampa Bay Buccaneers,Buccaneers–Panthers rivalry,3,28161,3146705,5927600,0.00652
+nfl,Houston Texans vs Tennessee Titans,Texans–Titans rivalry,2,50628,3330818,3229194,0.01544
+nfl,Houston Texans vs Indianapolis Colts,Colts–Texans rivalry,2,36078,3330818,3163291,0.01111
+nfl,Jacksonville Jaguars vs Tennessee Titans,Jaguars–Titans rivalry,3,55644,3831115,3229194,0.01582
+nfl,Indianapolis Colts vs New England Patriots,Colts–Patriots rivalry,2,102098,3163291,7132916,0.02149
+nfl,New York Giants vs New York Jets,Giants–Jets rivalry,3,177525,4852597,4387505,0.03847
+nfl,Philadelphia Eagles vs Pittsburgh Steelers,Eagles–Steelers rivalry,3,122227,6884344,4952525,0.02093
+nba,Los Angeles Lakers vs Boston Celtics,Celtics–Lakers rivalry,1,742472,11712675,7725499,0.07805
+nba,Los Angeles Lakers vs LA Clippers,Lakers–Clippers rivalry,1,240446,11712675,12729,0.62272
+nba,Los Angeles Lakers vs Golden State Warriors,Lakers–Warriors rivalry,3,71790,11712675,9070644,0.00696
+nba,New York Knicks vs Boston Celtics,Celtics–Knicks rivalry,2,84625,4837895,7725499,0.01384
+nba,New York Knicks vs Indiana Pacers,Knicks–Pacers rivalry,3,208249,4837895,3030345,0.05439
+nba,Boston Celtics vs Philadelphia 76ers,76ers–Celtics rivalry,1,121380,7725499,3849751,0.02226
+nba,Chicago Bulls vs New York Knicks,Bulls–Knicks rivalry,3,79046,5269727,4837895,0.01566
+nba,Chicago Bulls vs Cleveland Cavaliers,Bulls–Cavaliers rivalry,3,54189,5269727,3308706,0.01298
+nba,Miami Heat vs New York Knicks,Heat–Knicks rivalry,2,77947,3999449,4837895,0.01772
+nba,Miami Heat vs Boston Celtics,Celtics–Heat rivalry,2,219729,3999449,7725499,0.03953
+nba,Dallas Mavericks vs San Antonio Spurs,Mavericks–Spurs rivalry,2,41443,4799777,3672069,0.00987
+nba,Dallas Mavericks vs Houston Rockets,Mavericks–Rockets rivalry,2,10617,4799777,2945014,0.00282
+nba,Phoenix Suns vs Los Angeles Lakers,Lakers–Suns rivalry,2,17724,3771257,11712675,0.00267
+nba,Phoenix Suns vs San Antonio Spurs,Spurs–Suns rivalry,3,42252,3771257,3672069,0.01135
+nba,Golden State Warriors vs Cleveland Cavaliers,Cavaliers–Warriors rivalry,3,315403,9070644,3308706,0.05757
+nba,Golden State Warriors vs Sacramento Kings,Kings–Warriors rivalry,3,26361,9070644,3525003,0.00466
+nba,Utah Jazz vs Denver Nuggets,Jazz–Nuggets rivalry,3,8698,2796005,4091662,0.00257
+mlb,New York Yankees vs New York Mets,Mets–Yankees rivalry,2,312589,7147637,4202855,0.05703
+mlb,Boston Red Sox vs Tampa Bay Rays,Rays–Red Sox rivalry,3,30182,4422515,2146232,0.0098
+mlb,Chicago Cubs vs St. Louis Cardinals,Cardinals–Cubs rivalry,1,125266,3158485,2701510,0.04288
+mlb,Chicago Cubs vs Chicago White Sox,Cubs–White Sox rivalry,2,239678,3158485,2788166,0.08077
+mlb,Chicago Cubs vs Milwaukee Brewers,Brewers–Cubs rivalry,2,67747,3158485,2390206,0.02466
+mlb,Los Angeles Dodgers vs San Francisco Giants,Dodgers–Giants rivalry,1,357804,6613149,3066756,0.07945
+mlb,Los Angeles Dodgers vs San Diego Padres,Dodgers–Padres rivalry,2,81370,6613149,2545316,0.01983
+mlb,New York Mets vs Philadelphia Phillies,Mets–Phillies rivalry,2,90510,4202855,3340354,0.02416
+mlb,New York Mets vs Atlanta Braves,Braves–Mets rivalry,2,66201,4202855,4340672,0.0155
+mlb,Texas Rangers vs Los Angeles Angels,Angels–Rangers rivalry,3,10212,85013,3068565,0.01999
+mlb,Pittsburgh Pirates vs Philadelphia Phillies,Phillies–Pirates rivalry,3,49494,2100873,3340354,0.01868
+nhl,New York Rangers vs New Jersey Devils,Devils–Rangers rivalry,2,76602,2614105,2053484,0.03306
+nhl,New York Rangers vs Philadelphia Flyers,Flyers–Rangers rivalry,2,31420,2614105,1609868,0.01532
+nhl,Boston Bruins vs Toronto Maple Leafs,Bruins–Maple Leafs rivalry,2,130718,2585074,3548760,0.04316
+nhl,Montreal Canadiens vs Toronto Maple Leafs,Canadiens–Maple Leafs rivalry,1,136253,3855599,3548760,0.03684
+nhl,Pittsburgh Penguins vs Washington Capitals,Capitals–Penguins rivalry,1,52173,2248589,1507789,0.02833
+nhl,Philadelphia Flyers vs New Jersey Devils,Devils–Flyers rivalry,3,25396,1609868,2053484,0.01397
+nhl,Chicago Blackhawks vs St. Louis Blues,Blackhawks–Blues rivalry,2,33746,2303194,1470350,0.01834
+nhl,Vancouver Canucks vs Calgary Flames,Canucks–Flames rivalry,3,21620,2153280,1673919,0.01139
+nhl,Tampa Bay Lightning vs Florida Panthers,Lightning–Panthers rivalry,2,40856,2366923,4064771,0.01317

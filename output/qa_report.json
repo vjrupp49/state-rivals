@@ -1,0 +1,87 @@
+[
+ {
+  "check": "unit: geometric mean .50/.10 = .224 vs balanced .30/.30 = .300",
+  "status": "pass",
+  "detail": ""
+ },
+ {
+  "check": "unit: A(MN,Vikings)=.32*.82=.2624 ; channel .2624*.50*1=.1312",
+  "status": "pass",
+  "detail": ""
+ },
+ {
+  "check": "unit: library compute_H reproduces .1312 on the brief's toy case (with and without a neutral place factor)",
+  "status": "pass",
+  "detail": ""
+ },
+ {
+  "check": "unit: library pair_scores gives the geometric mean (.50,.10 -> .2236)",
+  "status": "pass",
+  "detail": ""
+ },
+ {
+  "check": "every state row of A (+OTHER) sums to 1",
+  "status": "pass",
+  "detail": "max err 5.77e-15"
+ },
+ {
+  "check": "A has no NaN / negative cells",
+  "status": "pass",
+  "detail": ""
+ },
+ {
+  "check": "OTHER visible; states with OTHER>2% flagged for re-inspection",
+  "status": "pass",
+  "detail": "0 states >2% (unmeasured/unregistered sports land in OTHER by design)"
+ },
+ {
+  "check": "all sport families measured (>=50% real signal)",
+  "status": "pass",
+  "detail": "unmeasured: []"
+ },
+ {
+  "check": "no entity has exactly-zero P (missing != zero, D-007)",
+  "status": "pass",
+  "detail": "min P=1.95e-05"
+ },
+ {
+  "check": "E row sums <= 1",
+  "status": "pass",
+  "detail": "max 1.000000"
+ },
+ {
+  "check": "every observation row has provenance (source_url)",
+  "status": "pass",
+  "detail": "344861 rows, 0 missing"
+ },
+ {
+  "check": "every registry entity has a source",
+  "status": "pass",
+  "detail": ""
+ },
+ {
+  "check": "1,225 unordered pairs scored",
+  "status": "pass",
+  "detail": "1225"
+ },
+ {
+  "check": "sanity: MI-OH emerges as a strong channel (top 25 of 1,225)",
+  "status": "pass",
+  "detail": "rank 13 -- NOTE rivalry priors name these rivalries, so this checks wiring, not independent evidence"
+ },
+ {
+  "check": "sanity: MN-WI emerges as a strong channel (top 25 of 1,225)",
+  "status": "pass",
+  "detail": "rank 3 -- NOTE rivalry priors name these rivalries, so this checks wiring, not independent evidence"
+ },
+ {
+  "check": "sanity: median pair far below top pairs (no-structure pairs near zero)",
+  "status": "pass",
+  "detail": "median 0.0008994 vs top10 mean 0.03879"
+ },
+ {
+  "check": "all curated rivalry specs resolved to registry entities",
+  "status": "pass",
+  "detail": "0 unresolved: []"
+ }
+]

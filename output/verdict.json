@@ -1,0 +1,128 @@
+{
+ "declared_winner": null,
+ "leading_pair": "IL-WI",
+ "favored_pair": "IL-WI",
+ "leading_P_rank1": 0.66875,
+ "leading_P_top3": 0.9475,
+ "tied_tier": [
+  "IL-WI",
+  "MA-NY",
+  "MN-WI"
+ ],
+ "gates": {
+  "all_sport_families_have_data(censored_floor_cells_count_as_data)": true,
+  "monte_carlo_P_rank1>=0.5": true,
+  "holds_rank1_in>=80%_of_informative_variants(spearman<0.99)": false,
+  "top5_in>=75%_of_relevant_leave_one_sport_out(sports_that_drive_the_pair)": false,
+  "single_matchup_dependence_resolved(survives_edge_removal_or_dominance_supported_both_directions_raw_and_excess)": false,
+  "second_independent_proxy_agrees_on_dominance": false,
+  "corroborated(state_level_searches,searches_only_score,reciprocity)": true,
+  "top5_under_flat_tier_prior": true,
+  "detected_trends_coverage>=70%_in_families_driving_the_lead_pair": true,
+  "top_down_validation_completed": true,
+  "lead_pair_within_top50_of_independent_top-down_ranking": true,
+  "qa_no_failures": true
+ },
+ "failed_gates": [
+  "holds_rank1_in>=80%_of_informative_variants(spearman<0.99)",
+  "top5_in>=75%_of_relevant_leave_one_sport_out(sports_that_drive_the_pair)",
+  "single_matchup_dependence_resolved(survives_edge_removal_or_dominance_supported_both_directions_raw_and_excess)",
+  "second_independent_proxy_agrees_on_dominance"
+ ],
+ "failed_gate_labels": [
+  "Still first under alternative assumptions",
+  "Top 5 when a key sport is removed",
+  "One-matchup dependence resolved",
+  "A second source agrees, none contradicts"
+ ],
+ "provisional": true,
+ "open_items": [
+  "College sport-level weights were re-measured with topic terms after the first review; the small regional sports (hockey, wrestling, volleyball, lacrosse) still sit at the detection floor relative to the NFL anchor, so their sport-level weights are upper bounds",
+  "Families with fewer than half of their team-by-state cells detected (the rest censored, carried as bounded floors): bsb, cbb_m, cbb_w, cfb, hky_m, hky_w, lax, pwhl, sfb, vbw, wrs, so shares for these rest on few detected cells",
+  "Dominance of the lead pair biggest matchup, as measured: IL->WI: inconclusive (corrected measure lacks comparable units); WI->IL: inconclusive (too few detected units or low detected coverage) (a direction is inconclusive without at least three detected units covering 80% of the model mass and, for the corrected measure, comparable units)",
+  "Second proxies for that dominance: IL->WI | Google comparison searches ('A vs B') DISAGREES; IL->WI (national readership) | Wikipedia rivalry-article readership, 2021 to 2025 agrees; WI->IL | Google comparison searches ('A vs B') DISAGREES; WI->IL (national readership) | Wikipedia rivalry-article readership, 2021 to 2025 agrees. A same-platform proxy that contradicts blocks the gate; the independent Wikipedia proxy is national and carries no geography",
+  "The refined single-matchup rule: its text was written before the channel measurements but it was adopted after seeing them and after the original edge-removal gate had failed for the lead pair",
+  "The model over-concentrates hostility on one marquee matchup in most testable directions (see docs/CHANNEL_DECOMPOSITION.md), and the leading pair changes under the flat-tier prior and under flat sport weights",
+  "The Monte Carlo samples measurement and parameter noise but not structural alternatives (tier ladder, sport weights), so the probability of finishing first is conditional on the model structure; the relevant-leave-out gate is threshold-dependent (driver share at least 5%; at 2.5% the result would be: 3 of 4 keep it in the top 5)",
+  "Monte Carlo noise for edges is derived from the model misfit on NFL, MLB and NBA teams (in-sample) and applied to every edge; per-sport systematic multipliers (sd 0.30) are my own choice and not identifiable from team-level data",
+  "The identity layer E (which state a team stands for) has only an exploratory measurement (embodiment index for 40 teams and schools; the Bears are +0.46 against +0.80 for the Packers while E gives both 0.95 to their home state)",
+  "The corroboration thresholds were fixed before their table was computed but after the lead pairs state-level ranks were already known; the state-level rank is out of the 677 pairs measured in both directions; the searches-only check was inconclusive for most of the top pairs; the place factor was fixed after a first look at the estimates and replicated only on college schools",
+  "Raw Google Trends payloads are not published, so a stranger cannot rebuild the results from the repository alone; only stages downstream of the cache are reproducible",
+  "Three independent reviews were completed (2026-10-16, 2026-10-17, 2026-10-18) and their findings addressed (see CHANGELOG)"
+ ],
+ "diagnostics": {
+  "relevant_leave_out_at_2.5pct_share": "3 of 4 keep it in the top 5",
+  "families_below_50pct_detected_coverage": [
+   "bsb",
+   "cbb_m",
+   "cbb_w",
+   "cfb",
+   "hky_m",
+   "hky_w",
+   "lax",
+   "pwhl",
+   "sfb",
+   "vbw",
+   "wrs"
+  ],
+  "survives_strongest_edge_removal_top10": false,
+  "measured_dominance_supported_both_directions": false,
+  "dominance_detail": {
+   "IL->WI": "inconclusive (corrected measure lacks comparable units)",
+   "WI->IL": "inconclusive (too few detected units or low detected coverage)"
+  },
+  "second_proxy_agrees": false,
+  "second_proxy_detail": {
+   "IL->WI | Google comparison searches ('A vs B')": false,
+   "IL->WI (national readership) | Wikipedia rivalry-article readership, 2021 to 2025": true,
+   "WI->IL | Google comparison searches ('A vs B')": false,
+   "WI->IL (national readership) | Wikipedia rivalry-article readership, 2021 to 2025": true
+  },
+  "type": "marquee-matchup",
+  "informative_variants": [
+   {
+    "variant": "reciprocity_harm",
+    "lead_rank": 1
+   },
+   {
+    "variant": "reciprocity_min",
+    "lead_rank": 1
+   },
+   {
+    "variant": "reciprocity_arith",
+    "lead_rank": 1
+   },
+   {
+    "variant": "flat_tier_prior(structure_only)",
+    "lead_rank": 2
+   },
+   {
+    "variant": "flat_sport_weights",
+    "lead_rank": 7
+   }
+  ],
+  "relevant_leave_outs": [
+   {
+    "variant": "leave_out_football",
+    "lead_rank": 5
+   },
+   {
+    "variant": "leave_out_baseball",
+    "lead_rank": 1
+   },
+   {
+    "variant": "leave_out_pro_all",
+    "lead_rank": 206
+   }
+  ],
+  "driver_sport_families": [
+   "mlb",
+   "nfl"
+  ],
+  "edge_removal": {
+   "retained_share": 0.3251741677994065,
+   "rank_after": 15,
+   "edge": "Chicago Bears <-> Green Bay Packers"
+  }
+ }
+}

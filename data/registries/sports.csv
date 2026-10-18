@@ -1,0 +1,30 @@
+sport_id,sport_name,level,league_or_governing_body,phase3a_status,notes
+nfl,American football,professional,NFL,core_active,Guaranteed professional core.
+cfb_fbs,College football (FBS),college,NCAA Division I FBS,core_active,Full systematic screen; conference/division tracked per program.
+cfb_fcs,College football (FCS),college,NCAA Division I FCS,core_active,Can be central in smaller states (e.g. NDSU/SDSU per docs/PROTOCOL.md section 6).
+mlb,Baseball,professional,MLB,core_active,Guaranteed professional core.
+nba,Basketball (men's professional),professional,NBA,core_active,Guaranteed professional core.
+wnba,Basketball (women's professional),professional,WNBA,core_active,Guaranteed professional core.
+cbb_m,College basketball (men's),college,NCAA Division I,core_active,Full systematic screen.
+cbb_w,College basketball (women's),college,NCAA Division I,core_active,Full systematic screen; UConn WBB is a core-family anchor per docs/PROTOCOL.md section 6.
+nhl,Hockey (men's professional),professional,NHL,core_active,Guaranteed professional core.
+pwhl,Hockey (women's professional),professional,PWHL,core_active,Guaranteed professional core; young rivalries treated conservatively per docs/PROTOCOL.md section 5.
+mls,Soccer (men's professional),professional,MLS,core_active,Guaranteed professional core.
+nwsl,Soccer (women's professional),professional,NWSL,core_active,Guaranteed professional core.
+cih_m,College ice hockey (men's),college,NCAA Division I,regional_active,"Evidence-forced inclusion: North Dakota, Minnesota, Wisconsin benchmarks per docs/PROTOCOL.md section 6."
+cih_w,College ice hockey (women's),college,NCAA Division I,regional_active,Minnesota/Wisconsin women's hockey explicit contemporary rivalry language (Phase 3B).
+c_baseball,College baseball,college,NCAA Division I,regional_active,LSU baseball benchmark forces regional retention.
+c_softball,College softball,college,NCAA Division I,regional_active,Oklahoma softball benchmark forces regional retention.
+c_volleyball,College volleyball,college,NCAA Division I,regional_active,Nebraska volleyball benchmark forces regional retention.
+c_wrestling,College wrestling,college,NCAA Division I,regional_active,Iowa wrestling benchmark forces regional retention.
+c_lacrosse,College lacrosse (men's and women's),college,NCAA Division I,regional_active,Maryland-Johns Hopkins "The Rivalry" benchmark.
+ufl,American football (UFL),professional,UFL,team_by_team,"Team-by-team screening; St. Louis Battlehawks benchmark per docs/PROTOCOL.md section 6."
+usl,Soccer (USL),professional,USL,team_by_team,League-agnostic screening; uniform 0.25%/98%/opponent-activation rules.
+pro_volleyball,Pro volleyball,professional,various (e.g. PVF),team_by_team,Omaha Supernovas benchmark forces team-level screening.
+other_pro,Other anchored pro leagues/teams,professional,various,team_by_team,Formal existence alone does not prove relevance.
+lower_div_college,Lower-division college / NAIA,college,NCAA Division II/III / NAIA,team_by_team,Conditional on clearing common attention/evidence thresholds.
+high_school,High school sports,scholastic,various state associations,excluded,Too diffuse and inconsistently measurable (Protocol v1.0).
+club_intramural,Club/intramural/recreational sports,amateur,n/a,excluded,Outside the anchored organized fan-attention unit.
+national_teams,International national teams,international,various federations,excluded,Do not map cleanly onto state-vs-state identities.
+individual_sports,Pure individual-athlete sports,various,various,excluded,Insufficient stable opponent/state anchoring absent specific evidence.
+motorsports,Motorsports,professional,various (e.g. NASCAR),excluded,Driver/manufacturer fandom rarely maps to persistent interstate identities.

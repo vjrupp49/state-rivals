@@ -1,0 +1,3 @@
+league,cells,eta,eta_lo,eta_hi,gamma_per_1000mi,gamma_lo,gamma_hi,converged
+nfl,641,4.249,3.113,6.139,0.353,0.243,0.432,True
+mlb,251,-2.303,-12.249,-0.526,0.238,0.043,0.398,True

@@ -1,0 +1,967 @@
+# Curated discovery list of directed rivalry tiers (analyst prior; each edge still needs a cited source, see M3).
+# pro: family -> [team_a, team_b, tier_a_to_b, tier_b_to_a]   (tier 1 hottest .. 3 mildest)
+# college: [school_a, school_b, football_tier_ab, football_tier_ba, basketball_tier, {sport: tier override}]
+pro:
+  nfl:
+  - [packers, bears, 1, 1]
+  - [vikings, packers, 1, 2]
+  - [bears, vikings, 2, 2]
+  - [bears, lions, 3, 3]
+  - [packers, lions, 3, 3]
+  - [lions, vikings, 3, 3]
+  - [cowboys, eagles, 1, 1]
+  - [cowboys, giants, 2, 3]
+  - [cowboys, commanders, 2, 3]
+  - [giants, eagles, 2, 2]
+  - [eagles, commanders, 3, 3]
+  - [steelers, ravens, 1, 1]
+  - [steelers, browns, 1, 2]
+  - [steelers, bengals, 2, 2]
+  - [browns, ravens, 2, 2]
+  - [browns, bengals, 2, 2]
+  - [ravens, bengals, 3, 3]
+  - [patriots, jets, 2, 1]
+  - [patriots, bills, 3, 3]
+  - [patriots, dolphins, 3, 3]
+  - [bills, jets, 3, 3]
+  - [bills, dolphins, 3, 3]
+  - [chiefs, raiders, 1, 1]
+  - [chiefs, broncos, 2, 2]
+  - [chiefs, chargers, 3, 3]
+  - [raiders, broncos, 2, 2]
+  - [raiders, chargers, 3, 3]
+  - [broncos, chargers, 3, 3]
+  - [49ers, seahawks, 1, 1]
+  - [49ers, rams, 2, 2]
+  - [seahawks, rams, 3, 3]
+  - [saints, falcons, 1, 1]
+  - [saints, buccaneers, 3, 3]
+  - [falcons, panthers, 3, 3]
+  - [panthers, buccaneers, 3, 3]
+  - [texans, titans, 2, 2]
+  - [texans, colts, 2, 2]
+  - [colts, titans, 3, 3]
+  - [jaguars, titans, 3, 3]
+  - [texans, cowboys, 3, 3]
+  - [colts, patriots, 2, 3]
+  - [giants, jets, 3, 3]
+  - [eagles, steelers, 3, 3]
+  - [jaguars, texans, 3, 3]
+  nba:
+  - [lakers, celtics, 1, 1]
+  - [lakers, clippers, 3, 1]
+  - [lakers, warriors, 3, 3]
+  - [knicks, nets, 2, 3]
+  - [knicks, celtics, 2, 2]
+  - [knicks, pacers, 3, 3]
+  - [celtics, 76ers, 1, 1]
+  - [bulls, pistons, 2, 2]
+  - [bulls, knicks, 3, 3]
+  - [bulls, cavaliers, 3, 3]
+  - [heat, knicks, 2, 2]
+  - [heat, magic, 3, 3]
+  - [heat, celtics, 2, 2]
+  - [mavericks, spurs, 2, 2]
+  - [mavericks, rockets, 2, 2]
+  - [spurs, rockets, 2, 2]
+  - [suns, lakers, 2, 2]
+  - [suns, spurs, 3, 3]
+  - [warriors, cavaliers, 3, 3]
+  - [warriors, kings, 3, 3]
+  - [bucks, bulls, 3, 3]
+  - [jazz, nuggets, 3, 3]
+  - [thunder, spurs, 3, 3]
+  - [hawks, heat, 3, 3]
+  - [raptors, 76ers, 3, 3]
+  - [pacers, pistons, 3, 3]
+  - [timberwolves, bucks, 3, 3]
+  mlb:
+  - [yankees, red sox, 1, 1]
+  - [yankees, mets, 2, 2]
+  - [yankees, rays, 3, 3]
+  - [yankees, orioles, 3, 3]
+  - [red sox, rays, 3, 3]
+  - [red sox, orioles, 3, 3]
+  - [cubs, cardinals, 1, 1]
+  - [cubs, white sox, 2, 2]
+  - [cubs, brewers, 2, 2]
+  - [brewers, cardinals, 3, 3]
+  - [cubs, reds, 3, 3]
+  - [dodgers, giants, 1, 1]
+  - [dodgers, padres, 2, 2]
+  - [dodgers, angels, 2, 2]
+  - [dodgers, diamondbacks, 3, 3]
+  - [giants, athletics, 3, 3]
+  - [giants, padres, 3, 3]
+  - [mets, phillies, 2, 2]
+  - [mets, braves, 2, 2]
+  - [phillies, braves, 3, 3]
+  - [phillies, nationals, 3, 3]
+  - [nationals, orioles, 3, 3]
+  - [royals, cardinals, 2, 2]
+  - [royals, twins, 3, 3]
+  - [astros, rangers, 2, 2]
+  - [rangers, angels, 3, 3]
+  - [mariners, angels, 3, 3]
+  - [twins, white sox, 3, 3]
+  - [twins, guardians, 3, 3]
+  - [tigers, guardians, 2, 2]
+  - [tigers, white sox, 3, 3]
+  - [pirates, reds, 3, 3]
+  - [pirates, phillies, 3, 3]
+  - [braves, marlins, 3, 3]
+  - [rays, marlins, 3, 3]
+  - [rockies, diamondbacks, 3, 3]
+  - [blue jays, yankees, 3, 3]
+  - [blue jays, red sox, 3, 3]
+  nhl:
+  - [rangers, islanders, 1, 1]
+  - [rangers, devils, 2, 2]
+  - [rangers, flyers, 2, 2]
+  - [rangers, bruins, 2, 2]
+  - [bruins, canadiens, 1, 1]
+  - [bruins, sabres, 3, 3]
+  - [bruins, maple leafs, 2, 2]
+  - [canadiens, maple leafs, 1, 1]
+  - [maple leafs, senators, 2, 2]
+  - [flyers, penguins, 1, 1]
+  - [penguins, capitals, 1, 1]
+  - [flyers, devils, 3, 3]
+  - [capitals, rangers, 3, 3]
+  - [blackhawks, red wings, 1, 1]
+  - [blackhawks, blues, 2, 2]
+  - [wild, blackhawks, 2, 3]
+  - [blues, predators, 3, 3]
+  - [stars, avalanche, 2, 2]
+  - [avalanche, golden knights, 3, 3]
+  - [avalanche, red wings, 3, 3]
+  - [flames, oilers, 1, 1]
+  - [canucks, flames, 3, 3]
+  - [canucks, oilers, 3, 3]
+  - [kings, ducks, 2, 2]
+  - [kings, sharks, 3, 3]
+  - [sharks, golden knights, 3, 3]
+  - [canucks, kraken, 3, 3]
+  - [hurricanes, panthers, 3, 3]
+  - [lightning, panthers, 2, 2]
+  - [jets, wild, 3, 3]
+  - [blue jackets, penguins, 3, 3]
+  - [wild, blues, 3, 3]
+  mls:
+  - [sounders, timbers, 1, 1]
+  - [sounders, whitecaps, 3, 3]
+  - [timbers, whitecaps, 3, 3]
+  - [galaxy, los angeles fc, 1, 1]
+  - [galaxy, earthquakes, 2, 2]
+  - [red bulls, city fc, 1, 1]
+  - [red bulls, union, 2, 2]
+  - [red bulls, d.c. united, 2, 2]
+  - [revolution, red bulls, 3, 3]
+  - [atlanta, orlando, 3, 3]
+  - [orlando, inter miami, 2, 2]
+  - [columbus, cincinnati, 1, 1]
+  - [columbus, chicago, 3, 3]
+  - [sporting kansas city, st. louis, 2, 2]
+  - [sporting kansas city, real salt lake, 3, 3]
+  - [real salt lake, rapids, 2, 2]
+  - [austin, fc dallas, 2, 2]
+  - [dynamo, fc dallas, 1, 1]
+  - [dynamo, austin, 2, 2]
+  - [toronto, montreal, 1, 1]
+  - [toronto, whitecaps, 3, 3]
+  - [minnesota, sporting kansas city, 3, 3]
+  wnba:
+  - [fever, sky, 1, 1]
+  - [liberty, sun, 3, 3]
+  - [storm, fire, 2, 2]
+  - [sparks, aces, 3, 3]
+  - [mercury, aces, 3, 3]
+  - [mystics, liberty, 3, 3]
+  - [lynx, sparks, 3, 3]
+  - [valkyries, storm, 3, 3]
+  - [dream, fever, 3, 3]
+  nwsl:
+  - [thorns, reign, 1, 1]
+  - [wave, angel city, 1, 1]
+  - [gotham, spirit, 3, 3]
+  - [courage, pride, 3, 3]
+  - [current, stars, 3, 3]
+  - [bay fc, angel city, 3, 3]
+  - [thorns, angel city, 3, 3]
+  - [gotham, legacy, 3, 3]
+  pwhl:
+  - [boston, minnesota, 3, 3]
+  - [boston, new york, 3, 3]
+  - [toronto, montreal, 3, 3]
+  - [ottawa, montreal, 3, 3]
+  - [seattle, vancouver, 3, 3]
+  - [minnesota, ottawa, 3, 3]
+college:
+- - Ohio State
+  - Michigan
+  - 1
+  - 1
+  - 2
+  - {}
+- - Michigan
+  - Michigan State
+  - 2
+  - 1
+  - 2
+  - {hky_m: 1, hky_w: 4}
+- - Wisconsin
+  - Minnesota
+  - 1
+  - 1
+  - 2
+  - {hky_m: 1, hky_w: 1, bsb: 3}
+- - Iowa
+  - Nebraska
+  - 2
+  - 2
+  - 3
+  - {}
+- - Iowa
+  - Wisconsin
+  - 2
+  - 2
+  - 3
+  - {}
+- - Iowa
+  - Minnesota
+  - 2
+  - 2
+  - 3
+  - {}
+- - Iowa
+  - Iowa State
+  - 1
+  - 1
+  - 2
+  - {}
+- - Illinois
+  - Northwestern
+  - 3
+  - 3
+  - 3
+  - {}
+- - Illinois
+  - Purdue
+  - 3
+  - 3
+  - 2
+  - {}
+- - Indiana
+  - Purdue
+  - 1
+  - 1
+  - 1
+  - {}
+- - Michigan
+  - Notre Dame
+  - 2
+  - 2
+  - 4
+  - {}
+- - Michigan State
+  - Notre Dame
+  - 2
+  - 2
+  - 4
+  - {}
+- - Penn State
+  - Ohio State
+  - 2
+  - 2
+  - 3
+  - {}
+- - Penn State
+  - Michigan
+  - 3
+  - 3
+  - 4
+  - {}
+- - Penn State
+  - Pittsburgh
+  - 2
+  - 3
+  - 4
+  - {}
+- - Maryland
+  - Penn State
+  - 3
+  - 3
+  - 4
+  - {}
+- - Rutgers
+  - Penn State
+  - 3
+  - 3
+  - 4
+  - {}
+- - Nebraska
+  - Colorado
+  - 3
+  - 3
+  - 4
+  - {}
+- - Nebraska
+  - Oklahoma
+  - 3
+  - 3
+  - 4
+  - {}
+- - Illinois
+  - Missouri
+  - 2
+  - 2
+  - 1
+  - {}
+- - Illinois
+  - Indiana
+  - 3
+  - 3
+  - 2
+  - {}
+- - Indiana
+  - Kentucky
+  - 3
+  - 3
+  - 1
+  - {}
+- - USC
+  - UCLA
+  - 1
+  - 1
+  - 1
+  - {}
+- - Oregon
+  - Washington
+  - 1
+  - 1
+  - 3
+  - {}
+- - USC
+  - Notre Dame
+  - 2
+  - 2
+  - 4
+  - {}
+- - Alabama
+  - Auburn
+  - 1
+  - 1
+  - 2
+  - {}
+- - Alabama
+  - Tennessee
+  - 2
+  - 2
+  - 3
+  - {}
+- - Alabama
+  - LSU
+  - 2
+  - 2
+  - 3
+  - {}
+- - Alabama
+  - Georgia
+  - 3
+  - 3
+  - 4
+  - {}
+- - Georgia
+  - Florida
+  - 1
+  - 1
+  - 3
+  - {}
+- - Georgia
+  - Auburn
+  - 2
+  - 2
+  - 4
+  - {}
+- - Georgia
+  - Georgia Tech
+  - 2
+  - 1
+  - 3
+  - {}
+- - Florida
+  - Florida State
+  - 1
+  - 1
+  - 3
+  - {}
+- - Florida
+  - Tennessee
+  - 3
+  - 3
+  - 4
+  - {}
+- - Florida
+  - LSU
+  - 3
+  - 3
+  - 4
+  - {}
+- - Florida State
+  - Miami (FL)
+  - 1
+  - 1
+  - 3
+  - {}
+- - Miami (FL)
+  - Florida
+  - 2
+  - 2
+  - 4
+  - {}
+- - Tennessee
+  - Kentucky
+  - 3
+  - 3
+  - 3
+  - {}
+- - Tennessee
+  - Vanderbilt
+  - 3
+  - 3
+  - 4
+  - {}
+- - Kentucky
+  - Louisville
+  - 1
+  - 1
+  - 1
+  - {}
+- - Texas
+  - Oklahoma
+  - 1
+  - 1
+  - 3
+  - {sfb: 1}
+- - Texas
+  - Texas A&M
+  - 1
+  - 1
+  - 2
+  - {}
+- - Texas
+  - Texas Tech
+  - 3
+  - 3
+  - 3
+  - {}
+- - Texas A&M
+  - LSU
+  - 3
+  - 3
+  - 4
+  - {}
+- - Arkansas
+  - LSU
+  - 2
+  - 2
+  - 4
+  - {}
+- - Arkansas
+  - Texas A&M
+  - 3
+  - 3
+  - 4
+  - {}
+- - Ole Miss
+  - Mississippi State
+  - 1
+  - 1
+  - 1
+  - {bsb: 1}
+- - Ole Miss
+  - LSU
+  - 3
+  - 3
+  - 4
+  - {}
+- - South Carolina
+  - Clemson
+  - 1
+  - 1
+  - 3
+  - {}
+- - Clemson
+  - Georgia
+  - 3
+  - 3
+  - 4
+  - {}
+- - North Carolina
+  - NC State
+  - 2
+  - 2
+  - 1
+  - {}
+- - North Carolina
+  - Duke
+  - 3
+  - 3
+  - 1
+  - {}
+- - Duke
+  - NC State
+  - 4
+  - 4
+  - 2
+  - {}
+- - Virginia
+  - Virginia Tech
+  - 1
+  - 1
+  - 2
+  - {}
+- - Virginia
+  - North Carolina
+  - 3
+  - 3
+  - 3
+  - {}
+- - Georgia Tech
+  - Clemson
+  - 3
+  - 3
+  - 4
+  - {}
+- - Louisville
+  - Cincinnati
+  - 2
+  - 2
+  - 2
+  - {}
+- - Pittsburgh
+  - West Virginia
+  - 1
+  - 1
+  - 2
+  - {}
+- - West Virginia
+  - Virginia Tech
+  - 3
+  - 3
+  - 4
+  - {}
+- - Syracuse
+  - Boston College
+  - 3
+  - 3
+  - 4
+  - {}
+- - Syracuse
+  - UConn
+  - 3
+  - 3
+  - 2
+  - {}
+- - Notre Dame
+  - Boston College
+  - 3
+  - 3
+  - 4
+  - {}
+- - Navy
+  - Army
+  - 1
+  - 1
+  - 3
+  - {}
+- - Notre Dame
+  - Navy
+  - 3
+  - 3
+  - 4
+  - {}
+- - Kansas
+  - Missouri
+  - 1
+  - 1
+  - 1
+  - {}
+- - Kansas
+  - Kansas State
+  - 2
+  - 1
+  - 2
+  - {}
+- - Oklahoma
+  - Oklahoma State
+  - 1
+  - 1
+  - 2
+  - {}
+- - Iowa State
+  - Kansas State
+  - 3
+  - 3
+  - 4
+  - {}
+- - Colorado
+  - Colorado State
+  - 1
+  - 1
+  - 2
+  - {}
+- - Utah
+  - BYU
+  - 1
+  - 1
+  - 1
+  - {}
+- - Utah
+  - Utah State
+  - 2
+  - 3
+  - 3
+  - {}
+- - BYU
+  - Utah State
+  - 3
+  - 3
+  - 4
+  - {}
+- - Arizona
+  - Arizona State
+  - 1
+  - 1
+  - 1
+  - {}
+- - Baylor
+  - TCU
+  - 2
+  - 2
+  - 3
+  - {}
+- - Baylor
+  - Texas Tech
+  - 3
+  - 3
+  - 4
+  - {}
+- - TCU
+  - SMU
+  - 2
+  - 2
+  - 4
+  - {}
+- - Houston
+  - Rice
+  - 3
+  - 3
+  - 4
+  - {}
+- - Cincinnati
+  - Xavier
+  - 4
+  - 4
+  - 1
+  - {}
+- - Nevada
+  - UNLV
+  - 1
+  - 1
+  - 1
+  - {}
+- - San Diego State
+  - Fresno State
+  - 2
+  - 2
+  - 4
+  - {}
+- - Washington
+  - Washington State
+  - 1
+  - 1
+  - 2
+  - {}
+- - Oregon
+  - Oregon State
+  - 1
+  - 1
+  - 1
+  - {}
+- - California
+  - Stanford
+  - 1
+  - 1
+  - 3
+  - {}
+- - Stanford
+  - Notre Dame
+  - 3
+  - 3
+  - 4
+  - {}
+- - Montana
+  - Montana State
+  - 1
+  - 1
+  - 2
+  - {}
+- - North Dakota State
+  - South Dakota State
+  - 1
+  - 1
+  - 3
+  - {}
+- - North Dakota
+  - North Dakota State
+  - 1
+  - 1
+  - 1
+  - {}
+- - North Dakota
+  - Minnesota
+  - 4
+  - 4
+  - 4
+  - {hky_m: 1}
+- - South Dakota
+  - South Dakota State
+  - 1
+  - 1
+  - 1
+  - {}
+- - Idaho
+  - Montana
+  - 3
+  - 3
+  - 4
+  - {}
+- - Idaho
+  - Washington State
+  - 3
+  - 3
+  - 4
+  - {}
+- - Northern Iowa
+  - Iowa State
+  - 3
+  - 2
+  - 4
+  - {}
+- - Villanova
+  - Georgetown
+  - 4
+  - 4
+  - 2
+  - {}
+- - Villanova
+  - Penn
+  - 4
+  - 4
+  - 2
+  - {}
+- - Villanova
+  - Temple
+  - 4
+  - 4
+  - 3
+  - {}
+- - Saint Joseph's
+  - Villanova
+  - 4
+  - 4
+  - 2
+  - {}
+- - Georgetown
+  - Syracuse
+  - 4
+  - 4
+  - 2
+  - {}
+- - Gonzaga
+  - Saint Mary's
+  - 4
+  - 4
+  - 1
+  - {}
+- - Gonzaga
+  - Washington
+  - 4
+  - 4
+  - 3
+  - {}
+- - Memphis
+  - Louisville
+  - 4
+  - 4
+  - 3
+  - {}
+- - Marquette
+  - Wisconsin
+  - 4
+  - 4
+  - 1
+  - {}
+- - Creighton
+  - Nebraska
+  - 4
+  - 4
+  - 2
+  - {}
+- - Maryland
+  - Georgetown
+  - 4
+  - 4
+  - 2
+  - {}
+- - Maryland
+  - Virginia
+  - 4
+  - 4
+  - 3
+  - {}
+- - Dayton
+  - Xavier
+  - 4
+  - 4
+  - 3
+  - {}
+- - Harvard
+  - Yale
+  - 1
+  - 1
+  - 2
+  - {hky_m: 1, hky_w: 1}
+- - Cornell
+  - Harvard
+  - 3
+  - 3
+  - 3
+  - {hky_m: 2, hky_w: 2}
+- - Dartmouth
+  - Cornell
+  - 3
+  - 3
+  - 4
+  - {}
+- - Boston College
+  - Boston University
+  - 4
+  - 4
+  - 3
+  - {hky_m: 1, hky_w: 2}
+- - Boston University
+  - Harvard
+  - 4
+  - 4
+  - 4
+  - {hky_m: 2, hky_w: 3}
+- - Denver
+  - Colorado College
+  - 4
+  - 4
+  - 4
+  - {hky_m: 1}
+- - Denver
+  - North Dakota
+  - 4
+  - 4
+  - 4
+  - {hky_m: 2}
+- - Minnesota Duluth
+  - St. Cloud State
+  - 4
+  - 4
+  - 4
+  - {hky_m: 2, hky_w: 3}
+- - North Dakota
+  - Minnesota Duluth
+  - 4
+  - 4
+  - 4
+  - {hky_m: 1}
+- - Minnesota
+  - Minnesota Duluth
+  - 4
+  - 4
+  - 4
+  - {hky_m: 2, hky_w: 2}
+- - Maine
+  - New Hampshire
+  - 3
+  - 3
+  - 4
+  - {hky_m: 2, hky_w: 2}
+- - Michigan
+  - Ohio State
+  - 1
+  - 1
+  - 2
+  - {hky_m: 2, hky_w: 4}
+- - Ohio State
+  - Wisconsin
+  - 4
+  - 4
+  - 4
+  - {hky_w: 2}
+- - UConn
+  - Tennessee
+  - 4
+  - 4
+  - 4
+  - {cbb_w: 1}
+- - UConn
+  - South Carolina
+  - 4
+  - 4
+  - 4
+  - {cbb_w: 2}
+- - Iowa
+  - South Carolina
+  - 4
+  - 4
+  - 4
+  - {cbb_w: 2}
+- - Stanford
+  - UConn
+  - 4
+  - 4
+  - 4
+  - {cbb_w: 3}
+- - LSU
+  - Ole Miss
+  - 4
+  - 4
+  - 4
+  - {bsb: 2, sfb: 3}
+- - Oklahoma
+  - Oklahoma State
+  - 1
+  - 1
+  - 2
+  - {sfb: 1, bsb: 2}
+- - Texas
+  - Texas A&M
+  - 1
+  - 1
+  - 2
+  - {bsb: 1, sfb: 2}
+- - Florida
+  - Florida State
+  - 1
+  - 1
+  - 3
+  - {bsb: 1, sfb: 1}
+- - Arizona
+  - Arizona State
+  - 1
+  - 1
+  - 1
+  - {bsb: 1, sfb: 1}
+- - UCLA
+  - USC
+  - 1
+  - 1
+  - 1
+  - {bsb: 2, sfb: 2}

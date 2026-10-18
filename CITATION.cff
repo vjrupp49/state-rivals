@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "State Rivals: which pair of U.S. states has the greatest sports antagonism?"
+type: software
+authors:
+  - family-names: "Rupp"
+    given-names: "Vincent"
+version: "1.0"
+date-released: "2026-10-18"
+license: MIT
+keywords:
+  - sports
+  - rivalries
+  - Google Trends
+  - reproducible research
+abstract: "A reproducible, falsifiable measurement of sports antagonism across all 1,225 pairs of U.S. states. Illinois-Wisconsin is the favorite (first in 66.9% of 800 simulations, top three in 94.8%); no winner is declared because 4 of 12 verdict gates fail. See README.md and docs/RESULTS.md."

@@ -1,0 +1,932 @@
+league,entity_a,entity_b,meetings_per_season,window,source
+mlb,mlb_angels,mlb_astros,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_athletics,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_bluejays,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_braves,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_brewers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_cardinals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_cubs,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_diamondbacks,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_dodgers,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_giants,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_guardians,5.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_mariners,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_marlins,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_mets,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_nationals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_orioles,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_padres,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_phillies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_pirates,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_rangers,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_rays,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_reds,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_redsox,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_rockies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_royals,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_tigers,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_twins,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_whitesox,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_angels,mlb_yankees,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_athletics,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_bluejays,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_braves,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_brewers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_cardinals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_cubs,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_diamondbacks,3.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_dodgers,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_giants,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_guardians,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_mariners,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_marlins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_mets,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_nationals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_orioles,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_padres,3.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_phillies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_pirates,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_rangers,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_rays,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_reds,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_redsox,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_rockies,3.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_royals,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_tigers,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_twins,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_whitesox,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_astros,mlb_yankees,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_bluejays,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_braves,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_brewers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_cardinals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_cubs,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_diamondbacks,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_dodgers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_giants,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_guardians,5.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_mariners,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_marlins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_mets,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_nationals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_orioles,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_padres,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_phillies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_pirates,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_rangers,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_rays,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_reds,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_redsox,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_rockies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_royals,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_tigers,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_twins,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_whitesox,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_athletics,mlb_yankees,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_braves,3.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_brewers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_cardinals,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_cubs,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_diamondbacks,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_dodgers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_giants,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_guardians,5.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_mariners,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_marlins,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_mets,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_nationals,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_orioles,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_padres,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_phillies,4.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_pirates,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_rangers,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_rays,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_reds,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_redsox,15.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_rockies,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_royals,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_tigers,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_twins,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_whitesox,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_bluejays,mlb_yankees,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_brewers,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_cardinals,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_cubs,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_diamondbacks,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_dodgers,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_giants,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_guardians,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_mariners,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_marlins,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_mets,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_nationals,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_orioles,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_padres,7.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_phillies,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_pirates,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_rangers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_rays,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_reds,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_redsox,4.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_rockies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_royals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_tigers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_twins,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_whitesox,1.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_braves,mlb_yankees,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_cardinals,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_cubs,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_diamondbacks,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_dodgers,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_giants,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_guardians,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_mariners,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_marlins,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_mets,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_nationals,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_orioles,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_padres,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_phillies,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_pirates,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_rangers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_rays,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_reds,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_redsox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_rockies,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_royals,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_tigers,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_twins,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_whitesox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_brewers,mlb_yankees,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_cubs,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_diamondbacks,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_dodgers,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_giants,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_guardians,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_mariners,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_marlins,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_mets,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_nationals,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_orioles,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_padres,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_phillies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_pirates,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_rangers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_rays,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_reds,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_redsox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_rockies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_royals,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_tigers,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_whitesox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cardinals,mlb_yankees,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_diamondbacks,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_dodgers,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_giants,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_guardians,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_mariners,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_marlins,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_mets,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_nationals,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_orioles,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_padres,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_phillies,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_pirates,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_rangers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_rays,2.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_reds,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_redsox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_rockies,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_royals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_tigers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_twins,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_whitesox,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_cubs,mlb_yankees,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_dodgers,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_giants,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_guardians,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_mariners,3.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_marlins,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_mets,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_nationals,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_orioles,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_padres,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_phillies,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_pirates,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_rangers,3.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_rays,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_reds,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_redsox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_rockies,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_royals,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_tigers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_whitesox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_diamondbacks,mlb_yankees,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_giants,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_guardians,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_mariners,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_marlins,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_mets,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_nationals,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_orioles,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_padres,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_phillies,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_pirates,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_rangers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_rays,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_reds,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_redsox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_rockies,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_royals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_tigers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_twins,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_whitesox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_dodgers,mlb_yankees,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_guardians,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_mariners,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_marlins,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_mets,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_nationals,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_orioles,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_padres,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_phillies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_pirates,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_rangers,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_rays,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_reds,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_redsox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_rockies,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_royals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_tigers,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_whitesox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_giants,mlb_yankees,1.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_mariners,5.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_marlins,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_mets,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_nationals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_orioles,5.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_padres,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_phillies,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_pirates,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_rangers,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_rays,5.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_reds,3.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_redsox,5.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_rockies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_royals,11.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_tigers,11.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_twins,11.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_whitesox,11.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_guardians,mlb_yankees,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_marlins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_mets,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_nationals,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_orioles,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_padres,4.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_phillies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_pirates,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_rangers,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_rays,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_reds,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_redsox,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_rockies,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_royals,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_tigers,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_twins,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_whitesox,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mariners,mlb_yankees,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_mets,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_nationals,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_orioles,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_padres,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_phillies,15.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_pirates,7.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_rangers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_rays,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_reds,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_redsox,2.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_rockies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_royals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_tigers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_twins,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_whitesox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_marlins,mlb_yankees,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_nationals,15.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_orioles,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_padres,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_phillies,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_pirates,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_rangers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_rays,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_reds,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_redsox,2.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_rockies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_royals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_tigers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_twins,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_whitesox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_mets,mlb_yankees,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_orioles,4.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_padres,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_phillies,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_pirates,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_rangers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_rays,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_reds,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_redsox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_rockies,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_royals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_tigers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_twins,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_whitesox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_nationals,mlb_yankees,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_padres,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_phillies,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_pirates,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_rangers,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_rays,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_reds,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_redsox,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_rockies,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_royals,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_tigers,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_twins,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_whitesox,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_orioles,mlb_yankees,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_phillies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_pirates,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_rangers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_rays,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_reds,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_redsox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_rockies,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_royals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_tigers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_whitesox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_padres,mlb_yankees,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_pirates,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_rangers,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_rays,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_reds,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_redsox,3.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_rockies,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_royals,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_tigers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_twins,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_whitesox,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_phillies,mlb_yankees,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_rangers,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_rays,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_reds,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_redsox,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_rockies,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_royals,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_tigers,4.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_whitesox,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_pirates,mlb_yankees,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_rays,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_reds,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_redsox,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_rockies,3.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_royals,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_tigers,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_twins,6.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_whitesox,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rangers,mlb_yankees,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_reds,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_redsox,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_rockies,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_royals,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_tigers,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_twins,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_whitesox,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rays,mlb_yankees,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_redsox,2.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_rockies,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_royals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_tigers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_whitesox,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_reds,mlb_yankees,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_redsox,mlb_rockies,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_redsox,mlb_royals,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_redsox,mlb_tigers,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_redsox,mlb_twins,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_redsox,mlb_whitesox,6.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_redsox,mlb_yankees,15.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rockies,mlb_royals,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rockies,mlb_tigers,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rockies,mlb_twins,2.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rockies,mlb_whitesox,2.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_rockies,mlb_yankees,1.8,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_royals,mlb_tigers,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_royals,mlb_twins,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_royals,mlb_whitesox,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_royals,mlb_yankees,6.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_tigers,mlb_twins,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_tigers,mlb_whitesox,15.4,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_tigers,mlb_yankees,6.0,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_twins,mlb_whitesox,15.2,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_twins,mlb_yankees,6.6,2021-2025 regular season,MLB statsapi schedule
+mlb,mlb_whitesox,mlb_yankees,6.4,2021-2025 regular season,MLB statsapi schedule
+nfl,nfl_49ers,nfl_bears,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_bengals,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_bills,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_broncos,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_browns,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_buccaneers,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_cardinals,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_chargers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_chiefs,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_colts,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_cowboys,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_dolphins,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_eagles,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_falcons,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_jaguars,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_rams,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_seahawks,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_49ers,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_bengals,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_bills,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_broncos,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_browns,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_buccaneers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_cardinals,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_chargers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_chiefs,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_colts,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_commanders,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_cowboys,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_dolphins,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_eagles,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_giants,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_jaguars,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_lions,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_packers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_raiders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bears,nfl_vikings,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_bills,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_broncos,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_browns,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_buccaneers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_cardinals,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_chargers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_chiefs,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_colts,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_commanders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_cowboys,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_dolphins,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_eagles,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_falcons,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_giants,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_jaguars,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_jets,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_patriots,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_raiders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_ravens,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_steelers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bengals,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_broncos,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_browns,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_buccaneers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_cardinals,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_chargers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_chiefs,1.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_colts,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_cowboys,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_dolphins,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_eagles,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_giants,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_jaguars,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_jets,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_packers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_patriots,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_ravens,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_steelers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_bills,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_browns,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_buccaneers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_cardinals,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_chargers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_chiefs,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_colts,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_commanders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_cowboys,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_dolphins,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_eagles,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_falcons,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_jaguars,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_jets,1.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_raiders,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_ravens,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_broncos,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_buccaneers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_cardinals,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_chargers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_chiefs,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_colts,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_cowboys,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_dolphins,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_eagles,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_falcons,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_giants,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_jaguars,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_jets,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_panthers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_patriots,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_raiders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_ravens,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_steelers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_browns,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_cardinals,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_chargers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_chiefs,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_colts,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_cowboys,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_dolphins,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_eagles,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_falcons,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_jaguars,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_jets,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_lions,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_panthers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_rams,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_saints,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_buccaneers,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_chargers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_chiefs,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_colts,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_cowboys,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_dolphins,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_eagles,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_falcons,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_giants,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_jaguars,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_packers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_panthers,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_rams,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_seahawks,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cardinals,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_chiefs,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_colts,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_cowboys,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_dolphins,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_eagles,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_jaguars,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_lions,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_packers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_panthers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_patriots,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_raiders,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_ravens,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_steelers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_titans,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chargers,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_colts,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_commanders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_cowboys,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_dolphins,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_eagles,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_falcons,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_jaguars,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_panthers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_raiders,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_ravens,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_chiefs,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_commanders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_cowboys,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_dolphins,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_eagles,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_jaguars,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_jets,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_lions,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_packers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_panthers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_patriots,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_raiders,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_rams,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_steelers,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_texans,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_titans,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_colts,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_cowboys,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_dolphins,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_eagles,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_falcons,1.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_giants,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_jaguars,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_packers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_raiders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_seahawks,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_commanders,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_dolphins,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_eagles,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_giants,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_jaguars,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_jets,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_lions,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_panthers,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_raiders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_cowboys,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_eagles,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_jaguars,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_jets,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_lions,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_packers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_panthers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_patriots,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_raiders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_ravens,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_dolphins,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_falcons,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_giants,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_jaguars,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_jets,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_lions,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_packers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_raiders,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_rams,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_saints,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_eagles,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_giants,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_jaguars,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_jets,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_packers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_panthers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_saints,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_seahawks,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_falcons,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_jaguars,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_jets,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_packers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_panthers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_raiders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_saints,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_seahawks,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_giants,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_jets,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_lions,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_packers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_raiders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_texans,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_titans,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jaguars,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_lions,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_packers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_patriots,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_steelers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_jets,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_packers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_rams,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_ravens,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_seahawks,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_steelers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_lions,nfl_vikings,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_panthers,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_patriots,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_rams,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_saints,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_seahawks,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_steelers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_packers,nfl_vikings,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_patriots,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_raiders,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_ravens,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_saints,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_seahawks,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_panthers,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_raiders,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_rams,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_saints,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_steelers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_patriots,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_rams,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_ravens,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_saints,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_steelers,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_raiders,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_ravens,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_saints,0.8,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_seahawks,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_rams,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_ravens,nfl_saints,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_ravens,nfl_seahawks,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_ravens,nfl_steelers,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_ravens,nfl_texans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_ravens,nfl_titans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_ravens,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_saints,nfl_seahawks,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_saints,nfl_steelers,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_saints,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_saints,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_saints,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_seahawks,nfl_steelers,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_seahawks,nfl_texans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_seahawks,nfl_titans,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_seahawks,nfl_vikings,0.6,2021-2025 regular season,nflverse games.csv
+nfl,nfl_steelers,nfl_texans,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_steelers,nfl_titans,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_steelers,nfl_vikings,0.4,2021-2025 regular season,nflverse games.csv
+nfl,nfl_texans,nfl_titans,2.0,2021-2025 regular season,nflverse games.csv
+nfl,nfl_texans,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv
+nfl,nfl_titans,nfl_vikings,0.2,2021-2025 regular season,nflverse games.csv

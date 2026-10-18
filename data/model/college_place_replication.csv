@@ -1,0 +1,2 @@
+population,cells,schools,gamma_per_1000mi,gamma_lo,gamma_hi,shrink_per_1000mi,shrink_lo,shrink_hi,converged
+college schools (school-level),814,112,0.262,0.182,0.341,0.769,0.711,0.833,True

@@ -1,0 +1,641 @@
+pair_rank,direction,source_state,supported_entity,rival_entity,sport_family,embodied_target_state,contribution,share_of_directed_H
+1,IL->WI,IL,Chicago Bears,Green Bay Packers,nfl,WI,0.0354471,0.6834
+1,IL->WI,IL,Chicago Cubs,Milwaukee Brewers,mlb,WI,0.00985345,0.1900
+1,IL->WI,IL,Chicago Bulls,Milwaukee Bucks,nba,WI,0.00227667,0.0439
+1,IL->WI,IL,Minnesota Vikings,Green Bay Packers,nfl,WI,0.00206517,0.0398
+1,IL->WI,IL,St. Louis Cardinals,Milwaukee Brewers,mlb,WI,0.000863286,0.0166
+1,IL->WI,IL,Detroit Lions,Green Bay Packers,nfl,WI,0.000319863,0.0062
+1,IL->WI,IL,Marquette Men's Basketball,Wisconsin Men's Basketball,cbb_m,WI,0.000229962,0.0044
+1,IL->WI,IL,Minnesota Timberwolves,Milwaukee Bucks,nba,WI,0.000217269,0.0042
+1,WI->IL,WI,Green Bay Packers,Chicago Bears,nfl,IL,0.0530185,0.6648
+1,WI->IL,WI,Milwaukee Brewers,Chicago Cubs,mlb,IL,0.0130542,0.1637
+1,WI->IL,WI,Milwaukee Bucks,Chicago Bulls,nba,IL,0.00345997,0.0434
+1,WI->IL,WI,Minnesota Vikings,Chicago Bears,nfl,IL,0.00226103,0.0284
+1,WI->IL,WI,Minnesota Wild,Chicago Blackhawks,nhl,IL,0.00171641,0.0215
+1,WI->IL,WI,Chicago Cubs,Chicago White Sox,mlb,IL,0.00120524,0.0151
+1,WI->IL,WI,Detroit Red Wings,Chicago Blackhawks,nhl,IL,0.000816946,0.0102
+1,WI->IL,WI,St. Louis Cardinals,Chicago Cubs,mlb,IL,0.000754824,0.0095
+2,MA->NY,MA,Boston Red Sox,New York Yankees,mlb,NY,0.0227286,0.3314
+2,MA->NY,MA,Boston Celtics,New York Knicks,nba,NY,0.0118786,0.1732
+2,MA->NY,MA,New England Patriots,New York Jets,nfl,NY,0.0082462,0.1202
+2,MA->NY,MA,Boston Bruins,New York Rangers,nhl,NY,0.00801547,0.1169
+2,MA->NY,MA,New England Patriots,Buffalo Bills,nfl,NY,0.00620679,0.0905
+2,MA->NY,MA,Boston Bruins,Buffalo Sabres,nhl,NY,0.00221967,0.0324
+2,MA->NY,MA,New York Knicks,Brooklyn Nets,nba,NY,0.00138229,0.0202
+2,MA->NY,MA,New York Yankees,New York Mets,mlb,NY,0.00131772,0.0192
+2,NY->MA,NY,New York Yankees,Boston Red Sox,mlb,MA,0.012736,0.3547
+2,NY->MA,NY,New York Knicks,Boston Celtics,nba,MA,0.00881202,0.2454
+2,NY->MA,NY,New York Jets,New England Patriots,nfl,MA,0.00452167,0.1259
+2,NY->MA,NY,Los Angeles Lakers,Boston Celtics,nba,MA,0.00307466,0.0856
+2,NY->MA,NY,New York Rangers,Boston Bruins,nhl,MA,0.00155514,0.0433
+2,NY->MA,NY,Philadelphia 76ers,Boston Celtics,nba,MA,0.00132251,0.0368
+2,NY->MA,NY,Buffalo Bills,New England Patriots,nfl,MA,0.00122458,0.0341
+2,NY->MA,NY,Buffalo Sabres,Boston Bruins,nhl,MA,0.000509829,0.0142
+3,MN->WI,MN,Minnesota Vikings,Green Bay Packers,nfl,WI,0.042248,0.7384
+3,MN->WI,MN,Minnesota Golden Gophers Football,Wisconsin Badgers Football,cfb,WI,0.00454649,0.0795
+3,MN->WI,MN,Minnesota Timberwolves,Milwaukee Bucks,nba,WI,0.00405983,0.0710
+3,MN->WI,MN,Chicago Bears,Green Bay Packers,nfl,WI,0.00352449,0.0616
+3,MN->WI,MN,Minnesota Men's Basketball,Wisconsin Men's Basketball,cbb_m,WI,0.000703616,0.0123
+3,MN->WI,MN,Chicago Cubs,Milwaukee Brewers,mlb,WI,0.000450999,0.0079
+3,MN->WI,MN,Wisconsin Men's Basketball,Marquette Men's Basketball,cbb_m,WI,0.00037003,0.0065
+3,MN->WI,MN,Detroit Lions,Green Bay Packers,nfl,WI,0.000333009,0.0058
+3,WI->MN,WI,Green Bay Packers,Minnesota Vikings,nfl,MN,0.0225908,0.5821
+3,WI->MN,WI,Wisconsin Badgers Football,Minnesota Golden Gophers Football,cfb,MN,0.00595289,0.1534
+3,WI->MN,WI,Milwaukee Bucks,Minnesota Timberwolves,nba,MN,0.0035075,0.0904
+3,WI->MN,WI,Wisconsin Men's Basketball,Minnesota Men's Basketball,cbb_m,MN,0.00254872,0.0657
+3,WI->MN,WI,Chicago Bears,Minnesota Vikings,nfl,MN,0.00247305,0.0637
+3,WI->MN,WI,Detroit Lions,Minnesota Vikings,nfl,MN,0.000383594,0.0099
+3,WI->MN,WI,Wisconsin Men's Ice Hockey,Minnesota Men's Ice Hockey,hky_m,MN,0.000323781,0.0083
+3,WI->MN,WI,Wisconsin Women's Ice Hockey,Minnesota Women's Ice Hockey,hky_w,MN,0.000279778,0.0072
+4,MD->PA,MD,Baltimore Ravens,Pittsburgh Steelers,nfl,PA,0.0316013,0.5605
+4,MD->PA,MD,Washington Capitals,Pittsburgh Penguins,nhl,PA,0.00853662,0.1514
+4,MD->PA,MD,Boston Celtics,Philadelphia 76ers,nba,PA,0.00295026,0.0523
+4,MD->PA,MD,Washington Commanders,Philadelphia Eagles,nfl,PA,0.00219508,0.0389
+4,MD->PA,MD,Dallas Cowboys,Philadelphia Eagles,nfl,PA,0.00182667,0.0324
+4,MD->PA,MD,New York Giants,Philadelphia Eagles,nfl,PA,0.0010594,0.0188
+4,MD->PA,MD,Philadelphia Flyers,Pittsburgh Penguins,nhl,PA,0.00100164,0.0178
+4,MD->PA,MD,Pittsburgh Penguins,Philadelphia Flyers,nhl,PA,0.000996794,0.0177
+4,PA->MD,PA,Pittsburgh Steelers,Baltimore Ravens,nfl,MD,0.0182587,0.7256
+4,PA->MD,PA,Pittsburgh Penguins,Washington Capitals,nhl,MD,0.00205376,0.0816
+4,PA->MD,PA,Philadelphia Eagles,Washington Commanders,nfl,MD,0.00146843,0.0584
+4,PA->MD,PA,Philadelphia Phillies,Washington Nationals,mlb,MD,0.000774325,0.0308
+4,PA->MD,PA,Cleveland Browns,Baltimore Ravens,nfl,MD,0.000763337,0.0303
+4,PA->MD,PA,Penn State Nittany Lions Football,Maryland Terrapins Football,cfb,MD,0.00065782,0.0261
+4,PA->MD,PA,New York Yankees,Baltimore Orioles,mlb,MD,0.000404514,0.0161
+4,PA->MD,PA,Cincinnati Bengals,Baltimore Ravens,nfl,MD,0.000229874,0.0091
+5,IL->MI,IL,Chicago Blackhawks,Detroit Red Wings,nhl,MI,0.00933131,0.3348
+5,IL->MI,IL,Chicago Bulls,Detroit Pistons,nba,MI,0.00812661,0.2916
+5,IL->MI,IL,Chicago Bears,Detroit Lions,nfl,MI,0.00498798,0.1790
+5,IL->MI,IL,Green Bay Packers,Detroit Lions,nfl,MI,0.000918351,0.0330
+5,IL->MI,IL,Ohio State Buckeyes Football,Michigan Wolverines Football,cfb,MI,0.00089527,0.0321
+5,IL->MI,IL,Chicago White Sox,Detroit Tigers,mlb,MI,0.000703237,0.0252
+5,IL->MI,IL,Michigan Wolverines Football,Michigan State Spartans Football,cfb,MI,0.00053385,0.0192
+5,IL->MI,IL,Minnesota Vikings,Detroit Lions,nfl,MI,0.000387597,0.0139
+5,MI->IL,MI,Detroit Red Wings,Chicago Blackhawks,nhl,IL,0.0173542,0.3921
+5,MI->IL,MI,Detroit Pistons,Chicago Bulls,nba,IL,0.0106536,0.2407
+5,MI->IL,MI,Detroit Lions,Chicago Bears,nfl,IL,0.00525475,0.1187
+5,MI->IL,MI,Green Bay Packers,Chicago Bears,nfl,IL,0.00385643,0.0871
+5,MI->IL,MI,Detroit Tigers,Chicago White Sox,mlb,IL,0.00294116,0.0665
+5,MI->IL,MI,Minnesota Vikings,Chicago Bears,nfl,IL,0.00085636,0.0193
+5,MI->IL,MI,Indiana Fever,Chicago Sky,wnba,IL,0.000544965,0.0123
+5,MI->IL,MI,Chicago Cubs,Chicago White Sox,mlb,IL,0.000445081,0.0101
+6,CA->WA,CA,San Francisco 49ers,Seattle Seahawks,nfl,WA,0.0157587,0.8831
+6,CA->WA,CA,Los Angeles Rams,Seattle Seahawks,nfl,WA,0.000995499,0.0558
+6,CA->WA,CA,Oregon Ducks Football,Washington Huskies Football,cfb,WA,0.000367229,0.0206
+6,CA->WA,CA,Los Angeles Angels,Seattle Mariners,mlb,WA,0.000212546,0.0119
+6,CA->WA,CA,Washington Huskies Football,Washington State Cougars Football,cfb,WA,0.000206766,0.0116
+6,CA->WA,CA,Washington State Cougars Football,Washington Huskies Football,cfb,WA,6.94883e-05,0.0039
+6,CA->WA,CA,Portland Timbers,Seattle Sounders FC,mls,WA,5.6106e-05,0.0031
+6,CA->WA,CA,Saint Mary's Men's Basketball,Gonzaga Men's Basketball,cbb_m,WA,4.47421e-05,0.0025
+6,WA->CA,WA,Seattle Seahawks,San Francisco 49ers,nfl,CA,0.038053,0.5808
+6,WA->CA,WA,Seattle Seahawks,Los Angeles Rams,nfl,CA,0.00661256,0.1009
+6,WA->CA,WA,Seattle Mariners,Los Angeles Angels,mlb,CA,0.00292226,0.0446
+6,WA->CA,WA,Gonzaga Men's Basketball,Saint Mary's Men's Basketball,cbb_m,CA,0.00223434,0.0341
+6,WA->CA,WA,San Francisco 49ers,Los Angeles Rams,nfl,CA,0.00203022,0.0310
+6,WA->CA,WA,Boston Celtics,Los Angeles Lakers,nba,CA,0.00147918,0.0226
+6,WA->CA,WA,Los Angeles Dodgers,San Francisco Giants,mlb,CA,0.00140127,0.0214
+6,WA->CA,WA,Los Angeles Rams,San Francisco 49ers,nfl,CA,0.00112701,0.0172
+7,OH->PA,OH,Cleveland Browns,Pittsburgh Steelers,nfl,PA,0.0119591,0.3396
+7,OH->PA,OH,Cincinnati Bengals,Pittsburgh Steelers,nfl,PA,0.00652926,0.1854
+7,OH->PA,OH,Ohio State Buckeyes Football,Penn State Nittany Lions Football,cfb,PA,0.00404175,0.1148
+7,OH->PA,OH,Baltimore Ravens,Pittsburgh Steelers,nfl,PA,0.00243419,0.0691
+7,OH->PA,OH,Boston Celtics,Philadelphia 76ers,nba,PA,0.00157556,0.0447
+7,OH->PA,OH,Pittsburgh Penguins,Philadelphia Flyers,nhl,PA,0.00142301,0.0404
+7,OH->PA,OH,Cincinnati Reds,Pittsburgh Pirates,mlb,PA,0.00125799,0.0357
+7,OH->PA,OH,Dallas Cowboys,Philadelphia Eagles,nfl,PA,0.00123521,0.0351
+7,PA->OH,PA,Pittsburgh Steelers,Cleveland Browns,nfl,OH,0.0152993,0.4801
+7,PA->OH,PA,Pittsburgh Steelers,Cincinnati Bengals,nfl,OH,0.00708536,0.2223
+7,PA->OH,PA,Penn State Nittany Lions Football,Ohio State Buckeyes Football,cfb,OH,0.00301751,0.0947
+7,PA->OH,PA,Baltimore Ravens,Cleveland Browns,nfl,OH,0.00125558,0.0394
+7,PA->OH,PA,Cleveland Browns,Cincinnati Bengals,nfl,OH,0.000853748,0.0268
+7,PA->OH,PA,Pittsburgh Pirates,Cincinnati Reds,mlb,OH,0.000808316,0.0254
+7,PA->OH,PA,Pittsburgh Penguins,Columbus Blue Jackets,nhl,OH,0.000780022,0.0245
+7,PA->OH,PA,Cincinnati Bengals,Cleveland Browns,nfl,OH,0.000643323,0.0202
+8,IL->MO,IL,Chicago Cubs,St. Louis Cardinals,mlb,MO,0.0144469,0.5980
+8,IL->MO,IL,Chicago Blackhawks,St. Louis Blues,nhl,MO,0.00328665,0.1360
+8,IL->MO,IL,Illinois Men's Basketball,Missouri Men's Basketball,cbb_m,MO,0.00228946,0.0948
+8,IL->MO,IL,St. Louis Cardinals,Kansas City Royals,mlb,MO,0.00147982,0.0613
+8,IL->MO,IL,Las Vegas Raiders,Kansas City Chiefs,nfl,MO,0.000735434,0.0304
+8,IL->MO,IL,Illinois Fighting Illini Football,Missouri Tigers Football,cfb,MO,0.000622364,0.0258
+8,IL->MO,IL,Denver Broncos,Kansas City Chiefs,nfl,MO,0.00043513,0.0180
+8,IL->MO,IL,Kansas Men's Basketball,Missouri Men's Basketball,cbb_m,MO,0.000214682,0.0089
+8,MO->IL,MO,St. Louis Cardinals,Chicago Cubs,mlb,IL,0.0192842,0.5129
+8,MO->IL,MO,St. Louis Blues,Chicago Blackhawks,nhl,IL,0.00546686,0.1454
+8,MO->IL,MO,Green Bay Packers,Chicago Bears,nfl,IL,0.00288921,0.0768
+8,MO->IL,MO,Missouri Tigers Football,Illinois Fighting Illini Football,cfb,IL,0.00202315,0.0538
+8,MO->IL,MO,Missouri Men's Basketball,Illinois Men's Basketball,cbb_m,IL,0.00186423,0.0496
+8,MO->IL,MO,Minnesota Vikings,Chicago Bears,nfl,IL,0.00070289,0.0187
+8,MO->IL,MO,Kansas City Royals,St. Louis Cardinals,mlb,IL,0.000645293,0.0172
+8,MO->IL,MO,Indiana Fever,Chicago Sky,wnba,IL,0.000644117,0.0171
+9,MA->PA,MA,Boston Celtics,Philadelphia 76ers,nba,PA,0.0296616,0.7786
+9,MA->PA,MA,Baltimore Ravens,Pittsburgh Steelers,nfl,PA,0.00188027,0.0494
+9,MA->PA,MA,Dallas Cowboys,Philadelphia Eagles,nfl,PA,0.0008562,0.0225
+9,MA->PA,MA,New York Giants,Philadelphia Eagles,nfl,PA,0.000842821,0.0221
+9,MA->PA,MA,Cleveland Browns,Pittsburgh Steelers,nfl,PA,0.00060987,0.0160
+9,MA->PA,MA,Cincinnati Bengals,Pittsburgh Steelers,nfl,PA,0.000523407,0.0137
+9,MA->PA,MA,New York Mets,Philadelphia Phillies,mlb,PA,0.000423206,0.0111
+9,MA->PA,MA,Philadelphia Flyers,Pittsburgh Penguins,nhl,PA,0.000386523,0.0101
+9,PA->MA,PA,Philadelphia 76ers,Boston Celtics,nba,MA,0.0147552,0.6586
+9,PA->MA,PA,Los Angeles Lakers,Boston Celtics,nba,MA,0.002401,0.1072
+9,PA->MA,PA,New York Yankees,Boston Red Sox,mlb,MA,0.00161618,0.0721
+9,PA->MA,PA,New York Knicks,Boston Celtics,nba,MA,0.00108897,0.0486
+9,PA->MA,PA,New York Jets,New England Patriots,nfl,MA,0.000702724,0.0314
+9,PA->MA,PA,Miami Heat,Boston Celtics,nba,MA,0.000366207,0.0163
+9,PA->MA,PA,Buffalo Bills,New England Patriots,nfl,MA,0.000236135,0.0105
+9,PA->MA,PA,Montreal Canadiens,Boston Bruins,nhl,MA,0.000219949,0.0098
+10,GA->LA,GA,Atlanta Falcons,New Orleans Saints,nfl,LA,0.0196001,0.9296
+10,GA->LA,GA,Alabama Crimson Tide Football,LSU Tigers Football,cfb,LA,0.000783973,0.0372
+10,GA->LA,GA,Tampa Bay Buccaneers,New Orleans Saints,nfl,LA,0.000215442,0.0102
+10,GA->LA,GA,Ole Miss Rebels Football,LSU Tigers Football,cfb,LA,0.000181136,0.0086
+10,GA->LA,GA,Florida Gators Football,LSU Tigers Football,cfb,LA,9.35031e-05,0.0044
+10,GA->LA,GA,Arkansas Razorbacks Football,LSU Tigers Football,cfb,LA,8.02488e-05,0.0038
+10,GA->LA,GA,Texas A&M Aggies Football,LSU Tigers Football,cfb,LA,3.34573e-05,0.0016
+10,GA->LA,GA,Alabama Men's Basketball,LSU Men's Basketball,cbb_m,LA,2.89799e-05,0.0014
+10,LA->GA,LA,New Orleans Saints,Atlanta Falcons,nfl,GA,0.032453,0.9384
+10,LA->GA,LA,New York Mets,Atlanta Braves,mlb,GA,0.000322257,0.0093
+10,LA->GA,LA,Georgia Bulldogs Football,Georgia Tech Yellow Jackets Football,cfb,GA,0.000273006,0.0079
+10,LA->GA,LA,Florida Gators Football,Georgia Bulldogs Football,cfb,GA,0.000272842,0.0079
+10,LA->GA,LA,Alabama Crimson Tide Football,Georgia Bulldogs Football,cfb,GA,0.00025089,0.0073
+10,LA->GA,LA,Miami Heat,Atlanta Hawks,nba,GA,0.000174932,0.0051
+10,LA->GA,LA,Carolina Panthers,Atlanta Falcons,nfl,GA,0.000163728,0.0047
+10,LA->GA,LA,Philadelphia Phillies,Atlanta Braves,mlb,GA,0.000146561,0.0042
+11,IL->MN,IL,Chicago Bears,Minnesota Vikings,nfl,MN,0.0125233,0.6856
+11,IL->MN,IL,Green Bay Packers,Minnesota Vikings,nfl,MN,0.00234368,0.1283
+11,IL->MN,IL,Chicago Blackhawks,Minnesota Wild,nhl,MN,0.000944351,0.0517
+11,IL->MN,IL,Chicago White Sox,Minnesota Twins,mlb,MN,0.000660671,0.0362
+11,IL->MN,IL,Detroit Lions,Minnesota Vikings,nfl,MN,0.000331107,0.0181
+11,IL->MN,IL,Wisconsin Badgers Football,Minnesota Golden Gophers Football,cfb,MN,0.000312575,0.0171
+11,IL->MN,IL,Milwaukee Bucks,Minnesota Timberwolves,nba,MN,0.0002741,0.0150
+11,IL->MN,IL,St. Louis Blues,Minnesota Wild,nhl,MN,0.000207107,0.0113
+11,MN->IL,MN,Minnesota Vikings,Chicago Bears,nfl,IL,0.0173472,0.4464
+11,MN->IL,MN,Minnesota Wild,Chicago Blackhawks,nhl,IL,0.0087933,0.2263
+11,MN->IL,MN,Green Bay Packers,Chicago Bears,nfl,IL,0.00677558,0.1744
+11,MN->IL,MN,Minnesota Twins,Chicago White Sox,mlb,IL,0.00226534,0.0583
+11,MN->IL,MN,Milwaukee Brewers,Chicago Cubs,mlb,IL,0.000450557,0.0116
+11,MN->IL,MN,St. Louis Cardinals,Chicago Cubs,mlb,IL,0.00039449,0.0102
+11,MN->IL,MN,Chicago Cubs,Chicago White Sox,mlb,IL,0.000350808,0.0090
+11,MN->IL,MN,Detroit Lions,Chicago Bears,nfl,IL,0.000317372,0.0082
+12,NY->PA,NY,New York Mets,Philadelphia Phillies,mlb,PA,0.00459593,0.2134
+12,NY->PA,NY,Boston Celtics,Philadelphia 76ers,nba,PA,0.00329695,0.1531
+12,NY->PA,NY,New York Giants,Philadelphia Eagles,nfl,PA,0.00234586,0.1089
+12,NY->PA,NY,Baltimore Ravens,Pittsburgh Steelers,nfl,PA,0.0022706,0.1054
+12,NY->PA,NY,New York Rangers,Philadelphia Flyers,nhl,PA,0.00212106,0.0985
+12,NY->PA,NY,Dallas Cowboys,Philadelphia Eagles,nfl,PA,0.0013676,0.0635
+12,NY->PA,NY,Cleveland Browns,Pittsburgh Steelers,nfl,PA,0.000729674,0.0339
+12,NY->PA,NY,Cincinnati Bengals,Pittsburgh Steelers,nfl,PA,0.000599452,0.0278
+12,PA->NY,PA,Philadelphia Phillies,New York Mets,mlb,NY,0.00833588,0.2729
+12,PA->NY,PA,Philadelphia Eagles,New York Giants,nfl,NY,0.00745039,0.2439
+12,PA->NY,PA,Philadelphia Flyers,New York Rangers,nhl,NY,0.00378032,0.1238
+12,PA->NY,PA,New York Knicks,Brooklyn Nets,nba,NY,0.00155561,0.0509
+12,PA->NY,PA,New York Yankees,New York Mets,mlb,NY,0.00113042,0.0370
+12,PA->NY,PA,Boston Celtics,New York Knicks,nba,NY,0.000748467,0.0245
+12,PA->NY,PA,New York Mets,New York Yankees,mlb,NY,0.000734381,0.0240
+12,PA->NY,PA,New York Rangers,New York Islanders,nhl,NY,0.000715173,0.0234
+13,MI->OH,MI,Detroit Tigers,Cleveland Guardians,mlb,OH,0.00949038,0.3941
+13,MI->OH,MI,Michigan Wolverines Football,Ohio State Buckeyes Football,cfb,OH,0.00782344,0.3249
+13,MI->OH,MI,Pittsburgh Steelers,Cleveland Browns,nfl,OH,0.00167833,0.0697
+13,MI->OH,MI,Michigan Men's Basketball,Ohio State Men's Basketball,cbb_m,OH,0.000993208,0.0412
+13,MI->OH,MI,Pittsburgh Steelers,Cincinnati Bengals,nfl,OH,0.000777263,0.0323
+13,MI->OH,MI,Baltimore Ravens,Cleveland Browns,nfl,OH,0.000608982,0.0253
+13,MI->OH,MI,Cleveland Browns,Cincinnati Bengals,nfl,OH,0.000604149,0.0251
+13,MI->OH,MI,Cincinnati Bengals,Cleveland Browns,nfl,OH,0.00054005,0.0224
+13,OH->MI,OH,Ohio State Buckeyes Football,Michigan Wolverines Football,cfb,MI,0.0128566,0.5414
+13,OH->MI,OH,Cleveland Guardians,Detroit Tigers,mlb,MI,0.00548745,0.2311
+13,OH->MI,OH,Michigan Wolverines Football,Michigan State Spartans Football,cfb,MI,0.00112917,0.0475
+13,OH->MI,OH,Ohio State Men's Basketball,Michigan Men's Basketball,cbb_m,MI,0.000618921,0.0261
+13,OH->MI,OH,Chicago Bulls,Detroit Pistons,nba,MI,0.00040145,0.0169
+13,OH->MI,OH,Green Bay Packers,Detroit Lions,nfl,MI,0.000380963,0.0160
+13,OH->MI,OH,Chicago Blackhawks,Detroit Red Wings,nhl,MI,0.000361017,0.0152
+13,OH->MI,OH,Notre Dame Fighting Irish Football,Michigan Wolverines Football,cfb,MI,0.000317838,0.0134
+14,MD->OH,MD,Baltimore Ravens,Cleveland Browns,nfl,OH,0.010205,0.4155
+14,MD->OH,MD,Baltimore Ravens,Cincinnati Bengals,nfl,OH,0.00493369,0.2009
+14,MD->OH,MD,Pittsburgh Steelers,Cleveland Browns,nfl,OH,0.00382393,0.1557
+14,MD->OH,MD,Pittsburgh Steelers,Cincinnati Bengals,nfl,OH,0.00177093,0.0721
+14,MD->OH,MD,Cleveland Browns,Cincinnati Bengals,nfl,OH,0.000840231,0.0342
+14,MD->OH,MD,Cincinnati Bengals,Cleveland Browns,nfl,OH,0.000748522,0.0305
+14,MD->OH,MD,Michigan Wolverines Football,Ohio State Buckeyes Football,cfb,OH,0.000473342,0.0193
+14,MD->OH,MD,Golden State Warriors,Cleveland Cavaliers,nba,OH,0.000412526,0.0168
+14,OH->MD,OH,Cleveland Browns,Baltimore Ravens,nfl,MD,0.00935977,0.5163
+14,OH->MD,OH,Pittsburgh Steelers,Baltimore Ravens,nfl,MD,0.00547343,0.3020
+14,OH->MD,OH,Cincinnati Bengals,Baltimore Ravens,nfl,MD,0.00218145,0.1203
+14,OH->MD,OH,Pittsburgh Penguins,Washington Capitals,nhl,MD,0.000370793,0.0205
+14,OH->MD,OH,New York Yankees,Baltimore Orioles,mlb,MD,0.000192145,0.0106
+14,OH->MD,OH,Philadelphia Eagles,Washington Commanders,nfl,MD,0.000125988,0.0070
+14,OH->MD,OH,Dallas Cowboys,Washington Commanders,nfl,MD,0.000121636,0.0067
+14,OH->MD,OH,Boston Red Sox,Baltimore Orioles,mlb,MD,8.96716e-05,0.0049
+15,PA->TX,PA,Philadelphia Eagles,Dallas Cowboys,nfl,TX,0.0173315,0.7846
+15,PA->TX,PA,San Antonio Spurs,Dallas Mavericks,nba,TX,0.000542705,0.0246
+15,PA->TX,PA,San Antonio Spurs,Houston Rockets,nba,TX,0.000542705,0.0246
+15,PA->TX,PA,Dallas Mavericks,Houston Rockets,nba,TX,0.000342989,0.0155
+15,PA->TX,PA,Dallas Mavericks,San Antonio Spurs,nba,TX,0.000342989,0.0155
+15,PA->TX,PA,Indianapolis Colts,Houston Texans,nfl,TX,0.000341807,0.0155
+15,PA->TX,PA,Texas Longhorns Football,Texas A&M Aggies Football,cfb,TX,0.000238917,0.0108
+15,PA->TX,PA,Houston Rockets,Dallas Mavericks,nba,TX,0.000230386,0.0104
+15,TX->PA,TX,Dallas Cowboys,Philadelphia Eagles,nfl,PA,0.011393,0.6170
+15,TX->PA,TX,Baltimore Ravens,Pittsburgh Steelers,nfl,PA,0.00186931,0.1012
+15,TX->PA,TX,Boston Celtics,Philadelphia 76ers,nba,PA,0.00125264,0.0678
+15,TX->PA,TX,New York Giants,Philadelphia Eagles,nfl,PA,0.000592025,0.0321
+15,TX->PA,TX,Cleveland Browns,Pittsburgh Steelers,nfl,PA,0.000589646,0.0319
+15,TX->PA,TX,Cincinnati Bengals,Pittsburgh Steelers,nfl,PA,0.000451254,0.0244
+15,TX->PA,TX,Philadelphia Eagles,Pittsburgh Steelers,nfl,PA,0.000355031,0.0192
+15,TX->PA,TX,Pittsburgh Steelers,Philadelphia Eagles,nfl,PA,0.000267859,0.0145
+16,CA->NV,CA,Kansas City Chiefs,Las Vegas Raiders,nfl,NV,0.00359097,0.5950
+16,CA->NV,CA,Denver Broncos,Las Vegas Raiders,nfl,NV,0.00101815,0.1687
+16,CA->NV,CA,Los Angeles Chargers,Las Vegas Raiders,nfl,NV,0.000818984,0.1357
+16,CA->NV,CA,San Jose Sharks,Vegas Golden Knights,nhl,NV,0.000272944,0.0452
+16,CA->NV,CA,Los Angeles Sparks,Las Vegas Aces,wnba,NV,7.55885e-05,0.0125
+16,CA->NV,CA,UNLV Rebels Football,Nevada Wolf Pack Football,cfb,NV,7.46201e-05,0.0124
+16,CA->NV,CA,Colorado Avalanche,Vegas Golden Knights,nhl,NV,5.99328e-05,0.0099
+16,CA->NV,CA,Nevada Wolf Pack Football,UNLV Rebels Football,cfb,NV,4.56482e-05,0.0076
+16,NV->CA,NV,Los Angeles Dodgers,San Francisco Giants,mlb,CA,0.0121736,0.1977
+16,NV->CA,NV,Los Angeles Dodgers,San Diego Padres,mlb,CA,0.00729719,0.1185
+16,NV->CA,NV,San Francisco 49ers,Los Angeles Rams,nfl,CA,0.0054583,0.0886
+16,NV->CA,NV,Los Angeles Dodgers,Los Angeles Angels,mlb,CA,0.00435847,0.0708
+16,NV->CA,NV,San Francisco Giants,Los Angeles Dodgers,mlb,CA,0.00432822,0.0703
+16,NV->CA,NV,Las Vegas Raiders,Los Angeles Chargers,nfl,CA,0.00355402,0.0577
+16,NV->CA,NV,Seattle Seahawks,San Francisco 49ers,nfl,CA,0.00343139,0.0557
+16,NV->CA,NV,Vegas Golden Knights,San Jose Sharks,nhl,CA,0.00210359,0.0342
+17,AZ->CA,AZ,Phoenix Suns,Los Angeles Lakers,nba,CA,0.00941081,0.2521
+17,AZ->CA,AZ,Seattle Seahawks,San Francisco 49ers,nfl,CA,0.00369719,0.0990
+17,AZ->CA,AZ,Los Angeles Dodgers,San Francisco Giants,mlb,CA,0.0034697,0.0929
+17,AZ->CA,AZ,San Francisco 49ers,Los Angeles Rams,nfl,CA,0.00244727,0.0655
+17,AZ->CA,AZ,Arizona Diamondbacks,Los Angeles Dodgers,mlb,CA,0.00222132,0.0595
+17,AZ->CA,AZ,Los Angeles Dodgers,San Diego Padres,mlb,CA,0.00207983,0.0557
+17,AZ->CA,AZ,Boston Celtics,Los Angeles Lakers,nba,CA,0.00130647,0.0350
+17,AZ->CA,AZ,Los Angeles Dodgers,Los Angeles Angels,mlb,CA,0.00124224,0.0333
+17,CA->AZ,CA,Los Angeles Lakers,Phoenix Suns,nba,AZ,0.00624952,0.6470
+17,CA->AZ,CA,Los Angeles Dodgers,Arizona Diamondbacks,mlb,AZ,0.00255728,0.2648
+17,CA->AZ,CA,San Antonio Spurs,Phoenix Suns,nba,AZ,0.000289217,0.0299
+17,CA->AZ,CA,Arizona Men's Basketball,Arizona State Men's Basketball,cbb_m,AZ,0.000174404,0.0181
+17,CA->AZ,CA,Arizona State Sun Devils Football,Arizona Wildcats Football,cfb,AZ,0.000170016,0.0176
+17,CA->AZ,CA,Arizona Wildcats Football,Arizona State Sun Devils Football,cfb,AZ,9.8521e-05,0.0102
+17,CA->AZ,CA,Colorado Rockies,Arizona Diamondbacks,mlb,AZ,4.16781e-05,0.0043
+17,CA->AZ,CA,Las Vegas Aces,Phoenix Mercury,wnba,AZ,3.18472e-05,0.0033
+18,FL->NY,FL,Miami Heat,New York Knicks,nba,NY,0.00414621,0.2256
+18,FL->NY,FL,Boston Red Sox,New York Yankees,mlb,NY,0.00145735,0.0793
+18,FL->NY,FL,New York Knicks,Brooklyn Nets,nba,NY,0.00141683,0.0771
+18,FL->NY,FL,New York Yankees,New York Mets,mlb,NY,0.00129493,0.0705
+18,FL->NY,FL,Miami Dolphins,Buffalo Bills,nfl,NY,0.00104518,0.0569
+18,FL->NY,FL,New York Mets,New York Yankees,mlb,NY,0.000894142,0.0487
+18,FL->NY,FL,Philadelphia Eagles,New York Giants,nfl,NY,0.000837398,0.0456
+18,FL->NY,FL,Boston Celtics,New York Knicks,nba,NY,0.000802978,0.0437
+18,NY->FL,NY,New York Knicks,Miami Heat,nba,FL,0.00891659,0.5367
+18,NY->FL,NY,New York Yankees,Tampa Bay Rays,mlb,FL,0.00192594,0.1159
+18,NY->FL,NY,Buffalo Bills,Miami Dolphins,nfl,FL,0.00186387,0.1122
+18,NY->FL,NY,Boston Celtics,Miami Heat,nba,FL,0.00093523,0.0563
+18,NY->FL,NY,New England Patriots,Miami Dolphins,nfl,FL,0.000301518,0.0181
+18,NY->FL,NY,Florida State Seminoles Football,Florida Gators Football,cfb,FL,0.000221818,0.0134
+18,NY->FL,NY,Georgia Bulldogs Football,Florida Gators Football,cfb,FL,0.000199607,0.0120
+18,NY->FL,NY,Inter Miami CF,Orlando City SC,mls,FL,0.000192769,0.0116
+19,KS->MO,KS,Kansas City Royals,St. Louis Cardinals,mlb,MO,0.00591201,0.3052
+19,KS->MO,KS,Kansas Men's Basketball,Missouri Men's Basketball,cbb_m,MO,0.00482818,0.2493
+19,KS->MO,KS,Kansas Jayhawks Football,Missouri Tigers Football,cfb,MO,0.00337988,0.1745
+19,KS->MO,KS,Las Vegas Raiders,Kansas City Chiefs,nfl,MO,0.00147266,0.0760
+19,KS->MO,KS,Denver Broncos,Kansas City Chiefs,nfl,MO,0.00111694,0.0577
+19,KS->MO,KS,Sporting Kansas City,St. Louis City SC,mls,MO,0.000771704,0.0398
+19,KS->MO,KS,Chicago Cubs,St. Louis Cardinals,mlb,MO,0.000757525,0.0391
+19,KS->MO,KS,St. Louis Cardinals,Kansas City Royals,mlb,MO,0.00034578,0.0179
+19,MO->KS,MO,Missouri Tigers Football,Kansas Jayhawks Football,cfb,KS,0.00651716,0.4288
+19,MO->KS,MO,Missouri Men's Basketball,Kansas Men's Basketball,cbb_m,KS,0.00284778,0.1874
+19,MO->KS,MO,St. Louis Cardinals,Kansas City Royals,mlb,KS,0.00171729,0.1130
+19,MO->KS,MO,Kansas Men's Basketball,Kansas State Men's Basketball,cbb_m,KS,0.00114216,0.0752
+19,MO->KS,MO,Las Vegas Raiders,Kansas City Chiefs,nfl,KS,0.000680285,0.0448
+19,MO->KS,MO,Kansas State Wildcats Football,Kansas Jayhawks Football,cfb,KS,0.000528111,0.0347
+19,MO->KS,MO,Kansas Jayhawks Football,Kansas State Wildcats Football,cfb,KS,0.000451402,0.0297
+19,MO->KS,MO,Denver Broncos,Kansas City Chiefs,nfl,KS,0.000448347,0.0295
+20,MO->NV,MO,Kansas City Chiefs,Las Vegas Raiders,nfl,NV,0.0297301,0.9634
+20,MO->NV,MO,Denver Broncos,Las Vegas Raiders,nfl,NV,0.000821624,0.0266
+20,MO->NV,MO,Los Angeles Chargers,Las Vegas Raiders,nfl,NV,0.000151037,0.0049
+20,MO->NV,MO,Colorado Avalanche,Vegas Golden Knights,nhl,NV,4.57065e-05,0.0015
+20,MO->NV,MO,UNLV Rebels Football,Nevada Wolf Pack Football,cfb,NV,2.9737e-05,0.0010
+20,MO->NV,MO,Phoenix Mercury,Las Vegas Aces,wnba,NV,2.62385e-05,0.0009
+20,MO->NV,MO,San Jose Sharks,Vegas Golden Knights,nhl,NV,1.53724e-05,0.0005
+20,MO->NV,MO,UNLV Men's Basketball,Nevada Men's Basketball,cbb_m,NV,1.27352e-05,0.0004
+20,NV->MO,NV,Las Vegas Raiders,Kansas City Chiefs,nfl,MO,0.00717854,0.7630
+20,NV->MO,NV,Chicago Cubs,St. Louis Cardinals,mlb,MO,0.000801288,0.0852
+20,NV->MO,NV,Denver Broncos,Kansas City Chiefs,nfl,MO,0.000594565,0.0632
+20,NV->MO,NV,St. Louis Cardinals,Kansas City Royals,mlb,MO,0.00017963,0.0191
+20,NV->MO,NV,Los Angeles Chargers,Kansas City Chiefs,nfl,MO,0.000126294,0.0134
+20,NV->MO,NV,Kansas City Royals,St. Louis Cardinals,mlb,MO,0.000102212,0.0109
+20,NV->MO,NV,Chicago Blackhawks,St. Louis Blues,nhl,MO,9.36494e-05,0.0100
+20,NV->MO,NV,Kansas Men's Basketball,Missouri Men's Basketball,cbb_m,MO,6.42588e-05,0.0068
+21,NJ->NY,NJ,New York Knicks,Brooklyn Nets,nba,NY,0.00837068,0.1688
+21,NJ->NY,NJ,New York Yankees,New York Mets,mlb,NY,0.00795197,0.1604
+21,NJ->NY,NJ,Philadelphia Eagles,New York Giants,nfl,NY,0.00486915,0.0982
+21,NJ->NY,NJ,Philadelphia Phillies,New York Mets,mlb,NY,0.00463412,0.0935
+21,NJ->NY,NJ,New York Rangers,New York Islanders,nhl,NY,0.00387764,0.0782
+21,NJ->NY,NJ,New York Mets,New York Yankees,mlb,NY,0.00262632,0.0530
+21,NJ->NY,NJ,New Jersey Devils,New York Rangers,nhl,NY,0.00256943,0.0518
+21,NJ->NY,NJ,Philadelphia Flyers,New York Rangers,nhl,NY,0.00194032,0.0391
+21,NY->NJ,NY,New York Rangers,New Jersey Devils,nhl,NJ,0.00214151,0.3697
+21,NY->NJ,NY,Buffalo Bills,New York Jets,nfl,NJ,0.000923386,0.1594
+21,NY->NJ,NY,New York Jets,New York Giants,nfl,NJ,0.000693177,0.1197
+21,NY->NJ,NY,Philadelphia Eagles,New York Giants,nfl,NJ,0.000593406,0.1024
+21,NY->NJ,NY,New England Patriots,New York Jets,nfl,NJ,0.000439841,0.0759
+21,NY->NJ,NY,New York City FC,New York Red Bulls,mls,NJ,0.000367438,0.0634
+21,NY->NJ,NY,New York Giants,New York Jets,nfl,NJ,0.00023216,0.0401
+21,NY->NJ,NY,Dallas Cowboys,New York Giants,nfl,NJ,0.000221345,0.0382
+22,NH->NY,NH,Boston Red Sox,New York Yankees,mlb,NY,0.0223998,0.3190
+22,NH->NY,NH,Boston Celtics,New York Knicks,nba,NY,0.0106872,0.1522
+22,NH->NY,NH,Boston Bruins,New York Rangers,nhl,NY,0.00949161,0.1352
+22,NH->NY,NH,New England Patriots,New York Jets,nfl,NY,0.00922793,0.1314
+22,NH->NY,NH,New England Patriots,Buffalo Bills,nfl,NY,0.00704443,0.1003
+22,NH->NY,NH,Boston Bruins,Buffalo Sabres,nhl,NY,0.00262845,0.0374
+22,NH->NY,NH,New York Yankees,New York Mets,mlb,NY,0.00136484,0.0194
+22,NH->NY,NH,New York Knicks,Brooklyn Nets,nba,NY,0.00105617,0.0150
+22,NY->NH,NY,New York Yankees,Boston Red Sox,mlb,NH,0.00109165,0.2917
+22,NY->NH,NY,New York Jets,New England Patriots,nfl,NH,0.000904334,0.2416
+22,NY->NH,NY,New York Knicks,Boston Celtics,nba,NH,0.000755316,0.2018
+22,NY->NH,NY,Los Angeles Lakers,Boston Celtics,nba,NH,0.000263542,0.0704
+22,NY->NH,NY,Buffalo Bills,New England Patriots,nfl,NH,0.000244917,0.0654
+22,NY->NH,NY,New York Rangers,Boston Bruins,nhl,NH,0.000133298,0.0356
+22,NY->NH,NY,Philadelphia 76ers,Boston Celtics,nba,NH,0.000113358,0.0303
+22,NY->NH,NY,Buffalo Sabres,Boston Bruins,nhl,NH,4.36996e-05,0.0117
+23,OK->TX,OK,Oklahoma Sooners Football,Texas Longhorns Football,cfb,TX,0.0115237,0.3136
+23,OK->TX,OK,Oklahoma City Thunder,San Antonio Spurs,nba,TX,0.00468537,0.1275
+23,OK->TX,OK,Philadelphia Eagles,Dallas Cowboys,nfl,TX,0.0034286,0.0933
+23,OK->TX,OK,Texas Longhorns Football,Texas A&M Aggies Football,cfb,TX,0.0016654,0.0453
+23,OK->TX,OK,Texas Rangers,Houston Astros,mlb,TX,0.0015812,0.0430
+23,OK->TX,OK,Oklahoma Softball,Texas Softball,sfb,TX,0.00147259,0.0401
+23,OK->TX,OK,Dallas Cowboys,Houston Texans,nfl,TX,0.00143525,0.0391
+23,OK->TX,OK,San Antonio Spurs,Dallas Mavericks,nba,TX,0.00130327,0.0355
+23,TX->OK,TX,Texas Longhorns Football,Oklahoma Sooners Football,cfb,OK,0.00362404,0.5387
+23,TX->OK,TX,San Antonio Spurs,Oklahoma City Thunder,nba,OK,0.00162086,0.2409
+23,TX->OK,TX,Oklahoma Sooners Football,Oklahoma State Cowboys Football,cfb,OK,0.000822801,0.1223
+23,TX->OK,TX,Oklahoma State Cowboys Football,Oklahoma Sooners Football,cfb,OK,0.000280071,0.0416
+23,TX->OK,TX,Texas Softball,Oklahoma Softball,sfb,OK,0.000119594,0.0178
+23,TX->OK,TX,Oklahoma Softball,Oklahoma State Softball,sfb,OK,0.000105577,0.0157
+23,TX->OK,TX,Texas Men's Basketball,Oklahoma Men's Basketball,cbb_m,OK,2.81177e-05,0.0042
+23,TX->OK,TX,Oklahoma Men's Basketball,Oklahoma State Men's Basketball,cbb_m,OK,2.46805e-05,0.0037
+24,CO->MO,CO,Denver Broncos,Kansas City Chiefs,nfl,MO,0.00855848,0.7048
+24,CO->MO,CO,Las Vegas Raiders,Kansas City Chiefs,nfl,MO,0.00135323,0.1114
+24,CO->MO,CO,Chicago Cubs,St. Louis Cardinals,mlb,MO,0.000771471,0.0635
+24,CO->MO,CO,Kansas Men's Basketball,Missouri Men's Basketball,cbb_m,MO,0.000424074,0.0349
+24,CO->MO,CO,St. Louis Cardinals,Kansas City Royals,mlb,MO,0.000190528,0.0157
+24,CO->MO,CO,Illinois Men's Basketball,Missouri Men's Basketball,cbb_m,MO,0.000139378,0.0115
+24,CO->MO,CO,Kansas City Royals,St. Louis Cardinals,mlb,MO,0.000138553,0.0114
+24,CO->MO,CO,Chicago Blackhawks,St. Louis Blues,nhl,MO,0.000123968,0.0102
+24,MO->CO,MO,Kansas City Chiefs,Denver Broncos,nfl,CO,0.0183148,0.9139
+24,MO->CO,MO,Las Vegas Raiders,Denver Broncos,nfl,CO,0.000756265,0.0377
+24,MO->CO,MO,Colorado Buffaloes Football,Colorado State Rams Football,cfb,CO,0.000343171,0.0171
+24,MO->CO,MO,Los Angeles Chargers,Denver Broncos,nfl,CO,0.000138723,0.0069
+24,MO->CO,MO,Dallas Stars,Colorado Avalanche,nhl,CO,0.000136838,0.0068
+24,MO->CO,MO,Utah Jazz,Denver Nuggets,nba,CO,7.25914e-05,0.0036
+24,MO->CO,MO,Nebraska Cornhuskers Football,Colorado Buffaloes Football,cfb,CO,5.68571e-05,0.0028
+24,MO->CO,MO,Vegas Golden Knights,Colorado Avalanche,nhl,CO,3.95038e-05,0.0020
+25,MA->NJ,MA,New England Patriots,New York Jets,nfl,NJ,0.00524758,0.7862
+25,MA->NJ,MA,Philadelphia Eagles,New York Giants,nfl,NJ,0.000464981,0.0697
+25,MA->NJ,MA,New York Rangers,New Jersey Devils,nhl,NJ,0.000225128,0.0337
+25,MA->NJ,MA,Buffalo Bills,New York Jets,nfl,NJ,0.000167513,0.0251
+25,MA->NJ,MA,Dallas Cowboys,New York Giants,nfl,NJ,0.00014235,0.0213
+25,MA->NJ,MA,New York Jets,New York Giants,nfl,NJ,0.000133684,0.0200
+25,MA->NJ,MA,New York Giants,New York Jets,nfl,NJ,8.56829e-05,0.0128
+25,MA->NJ,MA,New England Revolution,New York Red Bulls,mls,NJ,5.86225e-05,0.0088
+25,NJ->MA,NJ,New York Yankees,Boston Red Sox,mlb,MA,0.0116788,0.3244
+25,NJ->MA,NJ,Philadelphia 76ers,Boston Celtics,nba,MA,0.00717246,0.1993
+25,NJ->MA,NJ,New York Knicks,Boston Celtics,nba,MA,0.00601932,0.1672
+25,NJ->MA,NJ,New York Jets,New England Patriots,nfl,MA,0.00501914,0.1394
+25,NJ->MA,NJ,Los Angeles Lakers,Boston Celtics,nba,MA,0.00311259,0.0865
+25,NJ->MA,NJ,New York Rangers,Boston Bruins,nhl,MA,0.00106615,0.0296
+25,NJ->MA,NJ,Miami Heat,Boston Celtics,nba,MA,0.000465359,0.0129
+25,NJ->MA,NJ,Montreal Canadiens,Boston Bruins,nhl,MA,0.000281374,0.0078
+26,CO->NV,CO,Denver Broncos,Las Vegas Raiders,nfl,NV,0.0135992,0.6707
+26,CO->NV,CO,Kansas City Chiefs,Las Vegas Raiders,nfl,NV,0.00439752,0.2169
+26,CO->NV,CO,Colorado Avalanche,Vegas Golden Knights,nhl,NV,0.00186889,0.0922
+26,CO->NV,CO,Los Angeles Chargers,Las Vegas Raiders,nfl,NV,0.000243903,0.0120
+26,CO->NV,CO,UNLV Rebels Football,Nevada Wolf Pack Football,cfb,NV,5.05581e-05,0.0025
+26,CO->NV,CO,UNLV Men's Basketball,Nevada Men's Basketball,cbb_m,NV,2.65579e-05,0.0013
+26,CO->NV,CO,Nevada Men's Basketball,UNLV Men's Basketball,cbb_m,NV,2.5004e-05,0.0012
+26,CO->NV,CO,San Jose Sharks,Vegas Golden Knights,nhl,NV,2.03346e-05,0.0010
+26,NV->CO,NV,Las Vegas Raiders,Denver Broncos,nfl,CO,0.00691956,0.5876
+26,NV->CO,NV,Kansas City Chiefs,Denver Broncos,nfl,CO,0.00187102,0.1589
+26,NV->CO,NV,Vegas Golden Knights,Colorado Avalanche,nhl,CO,0.00182802,0.1552
+26,NV->CO,NV,Colorado Buffaloes Football,Colorado State Rams Football,cfb,CO,0.000337456,0.0287
+26,NV->CO,NV,Los Angeles Chargers,Denver Broncos,nfl,CO,0.000236124,0.0201
+26,NV->CO,NV,Dallas Stars,Colorado Avalanche,nhl,CO,0.000156078,0.0133
+26,NV->CO,NV,Utah Jazz,Denver Nuggets,nba,CO,9.91956e-05,0.0084
+26,NV->CO,NV,Arizona Diamondbacks,Colorado Rockies,mlb,CO,8.6991e-05,0.0074
+27,NJ->PA,NJ,Philadelphia Flyers,Pittsburgh Penguins,nhl,PA,0.00505473,0.1708
+27,NJ->PA,NJ,New York Giants,Philadelphia Eagles,nfl,PA,0.00440914,0.1490
+27,NJ->PA,NJ,Baltimore Ravens,Pittsburgh Steelers,nfl,PA,0.00255054,0.0862
+27,NJ->PA,NJ,Boston Celtics,Philadelphia 76ers,nba,PA,0.00234288,0.0792
+27,NJ->PA,NJ,New York Mets,Philadelphia Phillies,mlb,PA,0.00233898,0.0790
+27,NJ->PA,NJ,Philadelphia Eagles,Pittsburgh Steelers,nfl,PA,0.00222989,0.0753
+27,NJ->PA,NJ,Dallas Cowboys,Philadelphia Eagles,nfl,PA,0.00175536,0.0593
+27,NJ->PA,NJ,New York Rangers,Philadelphia Flyers,nhl,PA,0.0014768,0.0499
+27,PA->NJ,PA,Philadelphia Eagles,New York Giants,nfl,NJ,0.00474116,0.5896
+27,PA->NJ,PA,Philadelphia Flyers,New Jersey Devils,nhl,NJ,0.0010528,0.1309
+27,PA->NJ,PA,Penn State Nittany Lions Football,Rutgers Scarlet Knights Football,cfb,NJ,0.000689328,0.0857
+27,PA->NJ,PA,New England Patriots,New York Jets,nfl,NJ,0.000316862,0.0394
+27,PA->NJ,PA,New York Rangers,New Jersey Devils,nhl,NJ,0.000275,0.0342
+27,PA->NJ,PA,Dallas Cowboys,New York Giants,nfl,NJ,0.000243064,0.0302
+27,PA->NJ,PA,Philadelphia Union,New York Red Bulls,mls,NJ,0.000224281,0.0279
+27,PA->NJ,PA,Buffalo Bills,New York Jets,nfl,NJ,0.000185759,0.0231
+28,IL->IN,IL,Chicago Sky,Indiana Fever,wnba,IN,0.00192086,0.2117
+28,IL->IN,IL,Illinois Men's Basketball,Indiana Men's Basketball,cbb_m,IN,0.00154504,0.1702
+28,IL->IN,IL,Illinois Men's Basketball,Purdue Men's Basketball,cbb_m,IN,0.00127684,0.1407
+28,IL->IN,IL,Purdue Men's Basketball,Indiana Men's Basketball,cbb_m,IN,0.000715174,0.0788
+28,IL->IN,IL,Indiana Hoosiers Football,Purdue Boilermakers Football,cfb,IN,0.000568166,0.0626
+28,IL->IN,IL,Houston Texans,Indianapolis Colts,nfl,IN,0.000436215,0.0481
+28,IL->IN,IL,Indiana Men's Basketball,Purdue Men's Basketball,cbb_m,IN,0.000434163,0.0478
+28,IL->IN,IL,New York Knicks,Indiana Pacers,nba,IN,0.000353987,0.0390
+28,IN->IL,IN,Green Bay Packers,Chicago Bears,nfl,IL,0.00389695,0.1507
+28,IN->IL,IN,Chicago Cubs,Chicago White Sox,mlb,IL,0.00370199,0.1432
+28,IN->IL,IN,Indiana Fever,Chicago Sky,wnba,IL,0.00299958,0.1160
+28,IN->IL,IN,St. Louis Cardinals,Chicago Cubs,mlb,IL,0.00227925,0.0881
+28,IN->IL,IN,Indiana Men's Basketball,Illinois Men's Basketball,cbb_m,IL,0.00193833,0.0750
+28,IN->IL,IN,Purdue Men's Basketball,Illinois Men's Basketball,cbb_m,IL,0.00151852,0.0587
+28,IN->IL,IN,Chicago White Sox,Chicago Cubs,mlb,IL,0.00128941,0.0499
+28,IN->IL,IN,Detroit Red Wings,Chicago Blackhawks,nhl,IL,0.00123314,0.0477
+29,ME->NY,ME,Boston Red Sox,New York Yankees,mlb,NY,0.021028,0.3388
+29,ME->NY,ME,Boston Celtics,New York Knicks,nba,NY,0.00918496,0.1480
+29,ME->NY,ME,New England Patriots,New York Jets,nfl,NY,0.00781225,0.1259
+29,ME->NY,ME,Boston Bruins,New York Rangers,nhl,NY,0.00715055,0.1152
+29,ME->NY,ME,New England Patriots,Buffalo Bills,nfl,NY,0.00596165,0.0961
+29,ME->NY,ME,Boston Bruins,Buffalo Sabres,nhl,NY,0.00198015,0.0319
+29,ME->NY,ME,New York Yankees,New York Mets,mlb,NY,0.00138191,0.0223
+29,ME->NY,ME,New York Knicks,Brooklyn Nets,nba,NY,0.00105437,0.0170
+29,NY->ME,NY,New York Yankees,Boston Red Sox,mlb,ME,0.00109165,0.2924
+29,NY->ME,NY,New York Jets,New England Patriots,nfl,ME,0.000904334,0.2422
+29,NY->ME,NY,New York Knicks,Boston Celtics,nba,ME,0.000755316,0.2023
+29,NY->ME,NY,Los Angeles Lakers,Boston Celtics,nba,ME,0.000263542,0.0706
+29,NY->ME,NY,Buffalo Bills,New England Patriots,nfl,ME,0.000244917,0.0656
+29,NY->ME,NY,New York Rangers,Boston Bruins,nhl,ME,0.000133298,0.0357
+29,NY->ME,NY,Philadelphia 76ers,Boston Celtics,nba,ME,0.000113358,0.0304
+29,NY->ME,NY,Buffalo Sabres,Boston Bruins,nhl,ME,4.36996e-05,0.0117
+30,FL->MA,FL,Miami Heat,Boston Celtics,nba,MA,0.00296938,0.2417
+30,FL->MA,FL,Los Angeles Lakers,Boston Celtics,nba,MA,0.0025722,0.2094
+30,FL->MA,FL,New York Yankees,Boston Red Sox,mlb,MA,0.00189407,0.1542
+30,FL->MA,FL,New York Knicks,Boston Celtics,nba,MA,0.00101469,0.0826
+30,FL->MA,FL,Philadelphia 76ers,Boston Celtics,nba,MA,0.000969066,0.0789
+30,FL->MA,FL,New York Jets,New England Patriots,nfl,MA,0.000711499,0.0579
+30,FL->MA,FL,Tampa Bay Rays,Boston Red Sox,mlb,MA,0.000429222,0.0349
+30,FL->MA,FL,Miami Dolphins,New England Patriots,nfl,MA,0.000417757,0.0340
+30,MA->FL,MA,Boston Celtics,Miami Heat,nba,FL,0.00860798,0.4595
+30,MA->FL,MA,New England Patriots,Miami Dolphins,nfl,FL,0.00358264,0.1913
+30,MA->FL,MA,Boston Red Sox,Tampa Bay Rays,mlb,FL,0.002493,0.1331
+30,MA->FL,MA,New York Knicks,Miami Heat,nba,FL,0.00100169,0.0535
+30,MA->FL,MA,Buffalo Bills,Miami Dolphins,nfl,FL,0.000336751,0.0180
+30,MA->FL,MA,New York Yankees,Tampa Bay Rays,mlb,FL,0.000291463,0.0156
+30,MA->FL,MA,Georgia Bulldogs Football,Florida Gators Football,cfb,FL,0.000228174,0.0122
+30,MA->FL,MA,Florida State Seminoles Football,Florida Gators Football,cfb,FL,0.000221444,0.0118
+31,NY->RI,NY,New York Yankees,Boston Red Sox,mlb,RI,0.00109165,0.3129
+31,NY->RI,NY,New York Knicks,Boston Celtics,nba,RI,0.000755316,0.2165
+31,NY->RI,NY,New York Jets,New England Patriots,nfl,RI,0.000723467,0.2073
+31,NY->RI,NY,Los Angeles Lakers,Boston Celtics,nba,RI,0.000263542,0.0755
+31,NY->RI,NY,Buffalo Bills,New England Patriots,nfl,RI,0.000195934,0.0562
+31,NY->RI,NY,New York Rangers,Boston Bruins,nhl,RI,0.000133298,0.0382
+31,NY->RI,NY,Philadelphia 76ers,Boston Celtics,nba,RI,0.000113358,0.0325
+31,NY->RI,NY,Buffalo Sabres,Boston Bruins,nhl,RI,4.36996e-05,0.0125
+31,RI->NY,RI,Boston Red Sox,New York Yankees,mlb,NY,0.0213516,0.3261
+31,RI->NY,RI,Boston Celtics,New York Knicks,nba,NY,0.00993064,0.1517
+31,RI->NY,RI,New England Patriots,New York Jets,nfl,NY,0.00828537,0.1265
+31,RI->NY,RI,Boston Bruins,New York Rangers,nhl,NY,0.00656585,0.1003
+31,RI->NY,RI,New England Patriots,Buffalo Bills,nfl,NY,0.0061833,0.0944
+31,RI->NY,RI,New York Yankees,New York Mets,mlb,NY,0.00229763,0.0351
+31,RI->NY,RI,Boston Bruins,Buffalo Sabres,nhl,NY,0.00181824,0.0278
+31,RI->NY,RI,New York Knicks,Brooklyn Nets,nba,NY,0.00167214,0.0255
+32,OR->WA,OR,Oregon Ducks Football,Washington Huskies Football,cfb,WA,0.00910568,0.3990
+32,OR->WA,OR,San Francisco 49ers,Seattle Seahawks,nfl,WA,0.00714754,0.3132
+32,OR->WA,OR,Portland Timbers,Seattle Sounders FC,mls,WA,0.00336314,0.1474
+32,OR->WA,OR,Portland Thorns FC,Seattle Reign FC,nwsl,WA,0.000787596,0.0345
+32,OR->WA,OR,Washington Huskies Football,Washington State Cougars Football,cfb,WA,0.000760483,0.0333
+32,OR->WA,OR,Los Angeles Rams,Seattle Seahawks,nfl,WA,0.000398441,0.0175
+32,OR->WA,OR,Washington State Cougars Football,Washington Huskies Football,cfb,WA,0.000374062,0.0164
+32,OR->WA,OR,Gonzaga Men's Basketball,Washington Men's Basketball,cbb_m,WA,0.000249611,0.0109
+32,WA->OR,WA,Seattle Sounders FC,Portland Timbers,mls,OR,0.00336707,0.3422
+32,WA->OR,WA,Washington Huskies Football,Oregon Ducks Football,cfb,OR,0.00311752,0.3169
+32,WA->OR,WA,Oregon Ducks Football,Oregon State Beavers Football,cfb,OR,0.00183357,0.1864
+32,WA->OR,WA,Seattle Storm,Portland Fire,wnba,OR,0.000714021,0.0726
+32,WA->OR,WA,Oregon State Beavers Football,Oregon Ducks Football,cfb,OR,0.000321244,0.0327
+32,WA->OR,WA,Seattle Reign FC,Portland Thorns FC,nwsl,OR,0.00018395,0.0187
+32,WA->OR,WA,Oregon Men's Basketball,Oregon State Men's Basketball,cbb_m,OR,0.000137292,0.0140
+32,WA->OR,WA,Washington Men's Basketball,Oregon Men's Basketball,cbb_m,OR,5.54003e-05,0.0056
+33,CT->NY,CT,Boston Red Sox,New York Yankees,mlb,NY,0.00725879,0.1558
+33,CT->NY,CT,New York Yankees,New York Mets,mlb,NY,0.0055539,0.1192
+33,CT->NY,CT,New York Knicks,Brooklyn Nets,nba,NY,0.00490198,0.1052
+33,CT->NY,CT,New York Rangers,New York Islanders,nhl,NY,0.00412464,0.0885
+33,CT->NY,CT,Boston Celtics,New York Knicks,nba,NY,0.00291422,0.0626
+33,CT->NY,CT,New York Mets,New York Yankees,mlb,NY,0.00281901,0.0605
+33,CT->NY,CT,UConn Men's Basketball,Syracuse Men's Basketball,cbb_m,NY,0.00225555,0.0484
+33,CT->NY,CT,Boston Bruins,New York Rangers,nhl,NY,0.00202817,0.0435
+33,NY->CT,NY,New York Yankees,Boston Red Sox,mlb,CT,0.00109165,0.2661
+33,NY->CT,NY,New York Knicks,Boston Celtics,nba,CT,0.000755316,0.1841
+33,NY->CT,NY,New York Jets,New England Patriots,nfl,CT,0.000633034,0.1543
+33,NY->CT,NY,Syracuse Men's Basketball,UConn Men's Basketball,cbb_m,CT,0.000436713,0.1065
+33,NY->CT,NY,Los Angeles Lakers,Boston Celtics,nba,CT,0.000263542,0.0643
+33,NY->CT,NY,Buffalo Bills,New England Patriots,nfl,CT,0.000171442,0.0418
+33,NY->CT,NY,New York Liberty,Connecticut Sun,wnba,CT,0.000137639,0.0336
+33,NY->CT,NY,New York Rangers,Boston Bruins,nhl,CT,0.000133298,0.0325
+34,FL->GA,FL,Florida Gators Football,Georgia Bulldogs Football,cfb,GA,0.00187995,0.2347
+34,FL->GA,FL,New Orleans Saints,Atlanta Falcons,nfl,GA,0.00153117,0.1911
+34,FL->GA,FL,Miami Heat,Atlanta Hawks,nba,GA,0.00143801,0.1795
+34,FL->GA,FL,New York Mets,Atlanta Braves,mlb,GA,0.000972978,0.1215
+34,FL->GA,FL,Georgia Bulldogs Football,Georgia Tech Yellow Jackets Football,cfb,GA,0.000413752,0.0516
+34,FL->GA,FL,Miami Marlins,Atlanta Braves,mlb,GA,0.000404713,0.0505
+34,FL->GA,FL,Philadelphia Phillies,Atlanta Braves,mlb,GA,0.000254714,0.0318
+34,FL->GA,FL,Carolina Panthers,Atlanta Falcons,nfl,GA,0.000211607,0.0264
+34,GA->FL,GA,Georgia Bulldogs Football,Florida Gators Football,cfb,FL,0.00857111,0.3680
+34,GA->FL,GA,Atlanta Braves,Miami Marlins,mlb,FL,0.00262427,0.1127
+34,GA->FL,GA,Atlanta Hawks,Miami Heat,nba,FL,0.00179089,0.0769
+34,GA->FL,GA,New York Knicks,Miami Heat,nba,FL,0.00169716,0.0729
+34,GA->FL,GA,Florida State Seminoles Football,Florida Gators Football,cfb,FL,0.00115981,0.0498
+34,GA->FL,GA,Florida Gators Football,Florida State Seminoles Football,cfb,FL,0.00113285,0.0486
+34,GA->FL,GA,Boston Celtics,Miami Heat,nba,FL,0.000885038,0.0380
+34,GA->FL,GA,Florida State Seminoles Football,Miami Hurricanes Football,cfb,FL,0.000572905,0.0246
+35,MI->WI,MI,Detroit Lions,Green Bay Packers,nfl,WI,0.00521769,0.4418
+35,MI->WI,MI,Chicago Bears,Green Bay Packers,nfl,WI,0.00329397,0.2789
+35,MI->WI,MI,Minnesota Vikings,Green Bay Packers,nfl,WI,0.00197366,0.1671
+35,MI->WI,MI,Chicago Cubs,Milwaukee Brewers,mlb,WI,0.000541481,0.0458
+35,MI->WI,MI,Minnesota Golden Gophers Football,Wisconsin Badgers Football,cfb,WI,0.000167919,0.0142
+35,MI->WI,MI,Minnesota Timberwolves,Milwaukee Bucks,nba,WI,0.000133525,0.0113
+35,MI->WI,MI,Chicago Bulls,Milwaukee Bucks,nba,WI,0.000129891,0.0110
+35,MI->WI,MI,St. Louis Cardinals,Milwaukee Brewers,mlb,WI,7.75316e-05,0.0066
+35,WI->MI,WI,Green Bay Packers,Detroit Lions,nfl,MI,0.00837685,0.5304
+35,WI->MI,WI,Chicago Blackhawks,Detroit Red Wings,nhl,MI,0.00258607,0.1637
+35,WI->MI,WI,Minnesota Vikings,Detroit Lions,nfl,MI,0.000978013,0.0619
+35,WI->MI,WI,Chicago Bears,Detroit Lions,nfl,MI,0.000932135,0.0590
+35,WI->MI,WI,Ohio State Buckeyes Football,Michigan Wolverines Football,cfb,MI,0.000658851,0.0417
+35,WI->MI,WI,Chicago Bulls,Detroit Pistons,nba,MI,0.000622209,0.0394
+35,WI->MI,WI,Michigan Wolverines Football,Michigan State Spartans Football,cfb,MI,0.000366911,0.0232
+35,WI->MI,WI,Michigan State Spartans Football,Michigan Wolverines Football,cfb,MI,0.000210379,0.0133
+36,IA->WI,IA,Minnesota Vikings,Green Bay Packers,nfl,WI,0.0129045,0.3959
+36,IA->WI,IA,Chicago Bears,Green Bay Packers,nfl,WI,0.00853998,0.2620
+36,IA->WI,IA,Chicago Cubs,Milwaukee Brewers,mlb,WI,0.0054718,0.1679
+36,IA->WI,IA,Iowa Hawkeyes Football,Wisconsin Badgers Football,cfb,WI,0.0023857,0.0732
+36,IA->WI,IA,Minnesota Timberwolves,Milwaukee Bucks,nba,WI,0.000758989,0.0233
+36,IA->WI,IA,St. Louis Cardinals,Milwaukee Brewers,mlb,WI,0.000551816,0.0169
+36,IA->WI,IA,Iowa Men's Basketball,Wisconsin Men's Basketball,cbb_m,WI,0.000462992,0.0142
+36,IA->WI,IA,Detroit Lions,Green Bay Packers,nfl,WI,0.000360251,0.0111
+36,WI->IA,WI,Wisconsin Badgers Football,Iowa Hawkeyes Football,cfb,IA,0.0030023,0.5252
+36,WI->IA,WI,Wisconsin Men's Basketball,Iowa Men's Basketball,cbb_m,IA,0.00120894,0.2115
+36,WI->IA,WI,Iowa Hawkeyes Football,Iowa State Cyclones Football,cfb,IA,0.000512489,0.0897
+36,WI->IA,WI,Iowa State Cyclones Football,Iowa Hawkeyes Football,cfb,IA,0.000266714,0.0467
+36,WI->IA,WI,Minnesota Golden Gophers Football,Iowa Hawkeyes Football,cfb,IA,0.00016092,0.0282
+36,WI->IA,WI,Nebraska Cornhuskers Football,Iowa Hawkeyes Football,cfb,IA,0.000110061,0.0193
+36,WI->IA,WI,Iowa Men's Basketball,Iowa State Men's Basketball,cbb_m,IA,0.000109675,0.0192
+36,WI->IA,WI,Iowa Women's Basketball,Iowa State Women's Basketball,cbb_w,IA,8.97404e-05,0.0157
+37,KS->NV,KS,Kansas City Chiefs,Las Vegas Raiders,nfl,NV,0.0368739,0.9548
+37,KS->NV,KS,Denver Broncos,Las Vegas Raiders,nfl,NV,0.00130768,0.0339
+37,KS->NV,KS,Los Angeles Chargers,Las Vegas Raiders,nfl,NV,0.000189342,0.0049
+37,KS->NV,KS,Colorado Avalanche,Vegas Golden Knights,nhl,NV,0.000122258,0.0032
+37,KS->NV,KS,UNLV Rebels Football,Nevada Wolf Pack Football,cfb,NV,4.40224e-05,0.0011
+37,KS->NV,KS,San Jose Sharks,Vegas Golden Knights,nhl,NV,2.17108e-05,0.0006
+37,KS->NV,KS,Phoenix Mercury,Las Vegas Aces,wnba,NV,1.64334e-05,0.0004
+37,KS->NV,KS,Nevada Wolf Pack Football,UNLV Rebels Football,cfb,NV,1.4275e-05,0.0004
+37,NV->KS,NV,Las Vegas Raiders,Kansas City Chiefs,nfl,KS,0.00391557,0.8366
+37,NV->KS,NV,Denver Broncos,Kansas City Chiefs,nfl,KS,0.000324308,0.0693
+37,NV->KS,NV,Missouri Tigers Football,Kansas Jayhawks Football,cfb,KS,8.39545e-05,0.0179
+37,NV->KS,NV,Kansas State Wildcats Football,Kansas Jayhawks Football,cfb,KS,7.41076e-05,0.0158
+37,NV->KS,NV,Los Angeles Chargers,Kansas City Chiefs,nfl,KS,6.88878e-05,0.0147
+37,NV->KS,NV,Kansas Men's Basketball,Kansas State Men's Basketball,cbb_m,KS,6.10067e-05,0.0130
+37,NV->KS,NV,St. Louis Cardinals,Kansas City Royals,mlb,KS,4.79015e-05,0.0102
+37,NV->KS,NV,Kansas Jayhawks Football,Kansas State Wildcats Football,cfb,KS,4.37969e-05,0.0094
+38,AL->GA,AL,New Orleans Saints,Atlanta Falcons,nfl,GA,0.00468053,0.3186
+38,AL->GA,AL,Auburn Tigers Football,Georgia Bulldogs Football,cfb,GA,0.00335126,0.2281
+38,AL->GA,AL,Alabama Crimson Tide Football,Georgia Bulldogs Football,cfb,GA,0.00273582,0.1862
+38,AL->GA,AL,Georgia Bulldogs Football,Georgia Tech Yellow Jackets Football,cfb,GA,0.000905472,0.0616
+38,AL->GA,AL,Alabama Men's Basketball,Georgia Men's Basketball,cbb_m,GA,0.000487834,0.0332
+38,AL->GA,AL,Florida Gators Football,Georgia Bulldogs Football,cfb,GA,0.000441324,0.0300
+38,AL->GA,AL,New York Mets,Atlanta Braves,mlb,GA,0.000350944,0.0239
+38,AL->GA,AL,Auburn Men's Basketball,Georgia Men's Basketball,cbb_m,GA,0.000315343,0.0215
+38,GA->AL,GA,Georgia Bulldogs Football,Auburn Tigers Football,cfb,AL,0.00355819,0.2997
+38,GA->AL,GA,Georgia Bulldogs Football,Alabama Crimson Tide Football,cfb,AL,0.00291587,0.2456
+38,GA->AL,GA,Alabama Crimson Tide Football,Auburn Tigers Football,cfb,AL,0.00241668,0.2035
+38,GA->AL,GA,Auburn Tigers Football,Alabama Crimson Tide Football,cfb,AL,0.00158617,0.1336
+38,GA->AL,GA,LSU Tigers Football,Alabama Crimson Tide Football,cfb,AL,0.000386991,0.0326
+38,GA->AL,GA,Tennessee Vols Football,Alabama Crimson Tide Football,cfb,AL,0.000374004,0.0315
+38,GA->AL,GA,Auburn Men's Basketball,Alabama Men's Basketball,cbb_m,AL,0.000217031,0.0183
+38,GA->AL,GA,Alabama Men's Basketball,Auburn Men's Basketball,cbb_m,AL,0.000115501,0.0097
+39,CO->KS,CO,Denver Broncos,Kansas City Chiefs,nfl,KS,0.00466826,0.7071
+39,CO->KS,CO,Las Vegas Raiders,Kansas City Chiefs,nfl,KS,0.000738125,0.1118
+39,CO->KS,CO,Kansas Men's Basketball,Kansas State Men's Basketball,cbb_m,KS,0.000402569,0.0610
+39,CO->KS,CO,Kansas State Wildcats Football,Kansas Jayhawks Football,cfb,KS,0.000229279,0.0347
+39,CO->KS,CO,Missouri Tigers Football,Kansas Jayhawks Football,cfb,KS,0.000175706,0.0266
+39,CO->KS,CO,Kansas Jayhawks Football,Kansas State Wildcats Football,cfb,KS,0.000110499,0.0167
+39,CO->KS,CO,Missouri Men's Basketball,Kansas Men's Basketball,cbb_m,KS,6.63199e-05,0.0100
+39,CO->KS,CO,Los Angeles Chargers,Kansas City Chiefs,nfl,KS,6.53555e-05,0.0099
+39,KS->CO,KS,Kansas City Chiefs,Denver Broncos,nfl,CO,0.0227132,0.9076
+39,KS->CO,KS,Las Vegas Raiders,Denver Broncos,nfl,CO,0.00104582,0.0418
+39,KS->CO,KS,Colorado Buffaloes Football,Colorado State Rams Football,cfb,CO,0.000408453,0.0163
+39,KS->CO,KS,Dallas Stars,Colorado Avalanche,nhl,CO,0.000210176,0.0084
+39,KS->CO,KS,Los Angeles Chargers,Denver Broncos,nfl,CO,0.000173886,0.0069
+39,KS->CO,KS,Nebraska Cornhuskers Football,Colorado Buffaloes Football,cfb,CO,9.08183e-05,0.0036
+39,KS->CO,KS,Utah Jazz,Denver Nuggets,nba,CO,7.64954e-05,0.0031
+39,KS->CO,KS,Colorado State Rams Football,Colorado Buffaloes Football,cfb,CO,5.60265e-05,0.0022
+40,IL->OH,IL,Chicago Cubs,Cincinnati Reds,mlb,OH,0.00298295,0.2479
+40,IL->OH,IL,Chicago Bulls,Cleveland Cavaliers,nba,OH,0.0022359,0.1858
+40,IL->OH,IL,Pittsburgh Steelers,Cleveland Browns,nfl,OH,0.00181135,0.1505
+40,IL->OH,IL,Pittsburgh Steelers,Cincinnati Bengals,nfl,OH,0.000838869,0.0697
+40,IL->OH,IL,Michigan Wolverines Football,Ohio State Buckeyes Football,cfb,OH,0.000630488,0.0524
+40,IL->OH,IL,Baltimore Ravens,Cleveland Browns,nfl,OH,0.000616179,0.0512
+40,IL->OH,IL,Cleveland Browns,Cincinnati Bengals,nfl,OH,0.000595663,0.0495
+40,IL->OH,IL,Cincinnati Bengals,Cleveland Browns,nfl,OH,0.000566364,0.0471
+40,OH->IL,OH,Cleveland Cavaliers,Chicago Bulls,nba,IL,0.00279378,0.2228
+40,OH->IL,OH,Green Bay Packers,Chicago Bears,nfl,IL,0.00233769,0.1864
+40,OH->IL,OH,Cincinnati Reds,Chicago Cubs,mlb,IL,0.0011626,0.0927
+40,OH->IL,OH,Detroit Red Wings,Chicago Blackhawks,nhl,IL,0.0011207,0.0894
+40,OH->IL,OH,Detroit Pistons,Chicago Bulls,nba,IL,0.000680346,0.0542
+40,OH->IL,OH,Indiana Fever,Chicago Sky,wnba,IL,0.000677787,0.0540
+40,OH->IL,OH,Minnesota Vikings,Chicago Bears,nfl,IL,0.000602583,0.0480
+40,OH->IL,OH,St. Louis Cardinals,Chicago Cubs,mlb,IL,0.000535864,0.0427

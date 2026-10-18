@@ -1,0 +1,7 @@
+component,mean_cv_top30,p_baseline_top1_stays_top1,mean_rank_sd_top30,draws
+A (team attention),0.1734,0.953,5.42,150
+W (sport mix),0.0832,0.987,2.86,150
+"S (salience, incl. per-sport)",0.2041,0.793,5.47,150
+T (temperature),0.0921,0.96,3.0,150
+E (identity),0.0171,1.0,0.88,150
+all combined,0.2762,0.693,8.46,150

@@ -1,0 +1,45 @@
+league,team,states,within_team_geography_spearman
+nfl,San Francisco 49ers,28,0.513
+nfl,Chicago Bears,36,0.399
+nfl,Cincinnati Bengals,22,-0.286
+nfl,Buffalo Bills,31,-0.234
+nfl,Denver Broncos,24,0.471
+nfl,Cleveland Browns,21,-0.323
+nfl,Los Angeles Chargers,20,0.238
+nfl,Kansas City Chiefs,31,-0.044
+nfl,Indianapolis Colts,13,-0.181
+nfl,Dallas Cowboys,49,0.042
+nfl,Miami Dolphins,24,-0.215
+nfl,Philadelphia Eagles,38,-0.256
+nfl,Atlanta Falcons,12,0.21
+nfl,Detroit Lions,27,0.336
+nfl,Green Bay Packers,32,0.632
+nfl,New England Patriots,19,0.211
+nfl,Las Vegas Raiders,35,0.331
+nfl,Los Angeles Rams,21,-0.009
+nfl,Baltimore Ravens,21,0.345
+nfl,New Orleans Saints,21,0.1
+nfl,Seattle Seahawks,17,0.167
+nfl,Pittsburgh Steelers,28,0.436
+nfl,Tennessee Titans,18,0.059
+nfl,Minnesota Vikings,22,0.583
+mlb,Los Angeles Angels,19,0.023
+mlb,Atlanta Braves,11,-0.245
+mlb,Chicago Cubs,12,0.42
+mlb,Los Angeles Dodgers,17,0.377
+mlb,New York Mets,14,0.793
+mlb,Philadelphia Phillies,10,0.224
+mlb,Boston Red Sox,18,-0.024
+mlb,Detroit Tigers,14,0.266
+mlb,Minnesota Twins,24,0.171
+mlb,New York Yankees,49,0.062
+nba,Milwaukee Bucks,19,0.235
+nba,Boston Celtics,17,0.225
+nba,Miami Heat,30,-0.041
+nba,Utah Jazz,14,0.011
+nba,New York Knicks,14,0.143
+nba,Los Angeles Lakers,49,-0.115
+nba,Orlando Magic,31,0.112
+nba,Oklahoma City Thunder,28,0.024
+nba,Golden State Warriors,21,0.008
+nhl,Boston Bruins,49,0.028

@@ -1,0 +1,8 @@
+# Monte Carlo noise magnitudes (log-normal sd). Derived from data by scripts/derive_noise.py; see docs/NOISE_DERIVATION.md.
+# sport_mult_sd is NOT derivable from team-level data and stays at the analyst value.
+s_edge_sd: 0.37
+t_sd: 0.264
+e_sd: 0.158
+w_mix_sd: 0.25
+sport_mult_sd: 0.3
+gamma_sd: 0.072

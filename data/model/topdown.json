@@ -1,0 +1,125 @@
+{
+ "completed": true,
+ "batches_ok": 16,
+ "batches_planned": 16,
+ "topdown_top15_with_bottomup_rank": [
+  [
+   "MI-OH",
+   13
+  ],
+  [
+   "OK-TX",
+   23
+  ],
+  [
+   "AL-GA",
+   38
+  ],
+  [
+   "KS-MO",
+   19
+  ],
+  [
+   "IN-OH",
+   88
+  ],
+  [
+   "IN-MI",
+   45
+  ],
+  [
+   "MN-WI",
+   3
+  ],
+  [
+   "NJ-NY",
+   21
+  ],
+  [
+   "AL-TN",
+   66
+  ],
+  [
+   "OR-WA",
+   32
+  ],
+  [
+   "KY-OH",
+   95
+  ],
+  [
+   "FL-NY",
+   18
+  ],
+  [
+   "FL-OH",
+   105
+  ],
+  [
+   "FL-GA",
+   34
+  ],
+  [
+   "KS-OK",
+   270
+  ]
+ ],
+ "bottomup_top10_with_topdown_rank": [
+  [
+   "IL-WI",
+   28
+  ],
+  [
+   "MA-NY",
+   138
+  ],
+  [
+   "MN-WI",
+   7
+  ],
+  [
+   "MD-PA",
+   304
+  ],
+  [
+   "IL-MI",
+   32
+  ],
+  [
+   "CA-WA",
+   189
+  ],
+  [
+   "OH-PA",
+   40
+  ],
+  [
+   "IL-MO",
+   57
+  ],
+  [
+   "MA-PA",
+   536
+  ],
+  [
+   "GA-LA",
+   167
+  ]
+ ],
+ "pairs_measured_both_directions": 677,
+ "spearman_topdown_vs_bottomup": 0.5989,
+ "top20_overlap": 4,
+ "topdown_top10": [
+  "MI-OH",
+  "OK-TX",
+  "AL-GA",
+  "KS-MO",
+  "IN-OH",
+  "IN-MI",
+  "MN-WI",
+  "NJ-NY",
+  "AL-TN",
+  "OR-WA"
+ ],
+ "note": "noisy independent check; mixes sports and non-sports hostility"
+}

@@ -1,0 +1,5 @@
+pair,direction,proxy,independence,matchups,model_top,model_share,measured_share,lo,hi,agrees
+IL-WI,IL->WI,Google comparison searches ('A vs B'),"same platform, different query type (not counted as independent)",3,Chicago Bears vs Green Bay Packers,0.745,0.55,0.522,0.58,False
+IL-WI,IL->WI (national readership),"Wikipedia rivalry-article readership, 2021 to 2025","independent source (national, no geography)",2,Chicago Bears vs Green Bay Packers,0.782,0.897,,,True
+IL-WI,WI->IL,Google comparison searches ('A vs B'),"same platform, different query type (not counted as independent)",3,Green Bay Packers vs Chicago Bears,0.762,0.369,0.314,0.421,False
+IL-WI,WI->IL (national readership),"Wikipedia rivalry-article readership, 2021 to 2025","independent source (national, no geography)",2,Green Bay Packers vs Chicago Bears,0.802,0.897,,,True

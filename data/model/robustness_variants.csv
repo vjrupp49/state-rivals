@@ -1,0 +1,25 @@
+variant,top5,base_top1_rank,spearman_vs_base,note
+base,IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,1.0,
+reciprocity_harm,IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,0.9657,
+reciprocity_min,IL-WI;MN-WI;MA-NY;OH-PA;IL-MI,1,0.947,
+reciprocity_arith,IL-WI;MA-NY;MN-WI;CA-WA;MD-PA,1,0.7552,
+salience_only_T=1,IL-WI;MA-NY;MN-WI;IL-MI;MD-PA,1,0.9961,
+flat_tier_prior(structure_only),MA-NY;IL-WI;IL-MI;MN-WI;OH-PA,2,0.983,"all edges get identical S,T: tests how much the answer depends on my tier judgments"
+tier3_reader_ladder(0.27),IL-WI;MA-NY;MN-WI;IL-MI;MD-PA,1,0.9945,tier-3 rivalries weighted as Wikipedia readers see them
+no_place_factor(original),IL-WI;MA-NY;MN-WI;CA-WA;MD-PA,1,0.9907,the model without the distance factor (protocol revision D-016)
+no_measured_split,IL-WI;MA-NY;MN-WI;MD-PA;CA-WA,1,0.9992,"tier-based salience split only, without the co-search blend"
+leave_out_football,MA-NY;IL-MO;MA-PA;IL-MI;IL-WI,5,0.9339,
+leave_out_baseball,IL-WI;MN-WI;MD-PA;IL-MI;CA-WA,1,0.9957,
+leave_out_basketball,IL-WI;MN-WI;MD-PA;MA-NY;OH-PA,1,0.9792,
+leave_out_hockey,IL-WI;MN-WI;MA-NY;CA-WA;MD-PA,1,0.9963,
+leave_out_soccer,IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,0.9999,
+leave_out_softball,IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,1.0,
+leave_out_college_all,IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,0.715,
+leave_out_pro_all,MI-OH;AL-GA;KS-MO;OK-TX;OR-WA,206,0.7197,
+gamma_c_0(google_only),IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,0.9981,
+gamma_c_x2,IL-WI;MA-NY;MN-WI;MD-PA;CA-WA,1,0.996,
+window_current_only,IL-WI;MA-NY;MN-WI;IL-MI;MD-PA,1,0.9955,
+beta_equal_0.5,IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,0.9993,
+beta_no_survey_prior,IL-WI;MA-NY;MN-WI;MD-PA;CA-WA,1,0.9969,
+flat_sport_weights,MN-WI;OR-WA;MA-NY;IL-MI;IL-MO,7,0.9304,
+sport_terms_phrase(original),IL-WI;MA-NY;MN-WI;MD-PA;IL-MI,1,0.9926,

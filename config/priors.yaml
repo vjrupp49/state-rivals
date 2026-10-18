@@ -1,0 +1,63 @@
+# Analyst priors for the rivalry (S, T) and identity (E) layers.
+# EVERY value here is a judgment, not a measurement (source: analyst_prior).
+# Milestone M3 replaces S and T with measured data; M4 estimates what remains.
+# Changing a value changes the ranking: rerun `python scripts/finalize.py` and log it in CHANGELOG.
+tier_s: {1: 0.4, 2: 0.2, 3: 0.08}
+tier_t: {1: 0.85, 2: 0.65, 3: 0.45}
+class_factor: {nfl: 1, mlb: 1, nba: 1, nhl: 1, cfb: 1, cbb_m: 1, cbb_w: 0.9, hky_m: 1, hky_w: 0.9, bsb: 0.9, sfb: 0.9, vbw: 0.9, lax: 0.9, wrs: 0.9, mls: 0.85, nwsl: 0.85,
+  wnba: 0.6, pwhl: 0.6}
+row_cap: 0.85
+e_entity_exceptions:
+  nfl_chiefs: {MO: 0.55, KS: 0.3}
+  mls_sportingkc: {KS: 0.5, MO: 0.4}
+  mlb_royals: {MO: 0.75, KS: 0.2}
+  nfl_patriots: {MA: 0.5, NH: 0.1, ME: 0.1, RI: 0.08, CT: 0.07, VT: 0.05}
+  mls_newengland: {MA: 0.5, NH: 0.08, ME: 0.08, RI: 0.08, CT: 0.08, VT: 0.04}
+  mlb_redsox: {MA: 0.7, NH: 0.06, ME: 0.06, RI: 0.06, CT: 0.06}
+  nba_celtics: {MA: 0.7, NH: 0.06, ME: 0.06, RI: 0.06, CT: 0.06}
+  nhl_bruins: {MA: 0.7, NH: 0.06, ME: 0.06, RI: 0.06, CT: 0.06}
+  pwhl_boston: {MA: 0.8, NH: 0.05, ME: 0.05, RI: 0.03, CT: 0.03}
+  nfl_giants: {NY: 0.55, NJ: 0.35}
+  nfl_jets: {NY: 0.55, NJ: 0.35}
+  mls_nyrb: {NJ: 0.45, NY: 0.45}
+  nwsl_gotham: {NJ: 0.5, NY: 0.45}
+  pwhl_newyork: {NJ: 0.4, NY: 0.55}
+  nfl_commanders: {DC: 0.45, MD: 0.25, VA: 0.25}
+  nhl_capitals: {DC: 0.45, VA: 0.25, MD: 0.25}
+  nba_wizards: {DC: 0.45, MD: 0.25, VA: 0.25}
+  mlb_nationals: {DC: 0.5, VA: 0.2, MD: 0.25}
+  mls_dcunited: {DC: 0.55, MD: 0.15, VA: 0.25}
+  nwsl_washspirit: {DC: 0.55, MD: 0.15, VA: 0.25}
+  wnba_mystics: {DC: 0.6, MD: 0.15, VA: 0.2}
+  nfl_panthers: {NC: 0.6, SC: 0.35}
+  nhl_hurricanes: {NC: 0.75, SC: 0.2}
+  nfl_cowboys: {TX: 0.8}
+  mlb_yankees: {NY: 0.8}
+  nba_lakers: {CA: 0.8}
+  nfl_packers: {WI: 0.85}
+  mlb_cardinals: {MO: 0.75, IL: 0.15}
+  nhl_blues: {MO: 0.85, IL: 0.1}
+e_school_exceptions:
+  Notre Dame: {IN: 0.35}
+  BYU: {UT: 0.6}
+  Army: {NY: 0.2}
+  Army West Point: {NY: 0.2}
+  Navy: {MD: 0.2}
+  Air Force: {CO: 0.2}
+  Boston College: {MA: 0.7}
+  Georgetown: {DC: 0.5}
+  American University: {DC: 0.9}
+  George Washington: {DC: 0.9}
+  Howard: {DC: 0.9}
+  Gonzaga: {WA: 0.6}
+  Duke: {NC: 0.75}
+  Liberty: {VA: 0.5}
+  Villanova: {PA: 0.8}
+# Weight of MEASURED co-search shares in splitting a team's rivalry salience among its rivals (see docs/COSEARCH_PILOT.md).
+# Rule, set before looking at ranking effects: lam = clamp(mean within-team Spearman of the league's pilot, 0, 0.4);
+# leagues with fewer than ~15 teams tested or a non-positive correlation get 0 (nba: 9 teams, rho -0.05).
+# Place factor (protocol revision D-016): hostility toward a team shrinks by exp(-place_gamma * miles/1000) beyond what the rivalry
+# structure predicts. Pooled NFL (0.353) and MLB (0.312) estimates from scripts/gravity_distance.py, rounded; adopted under the
+# pre-registered rule in docs/RIVALRY_WEIGHT_DESIGN.md (90% interval excludes zero for at least two leagues). 0 disables it.
+place_gamma: 0.33
+cosearch_blend: {nfl: 0.34, mlb: 0.4, nba: 0.0, nhl: 0.0, col: 0.36}   # nhl: only 12 teams tested, so 0 under the stated rule

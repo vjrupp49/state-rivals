@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Local runtime state (the Trends cache lives outside the repository; its location is set with SR_WORK_DIR)
+logs/
+work/
+*.sqlite
+*.lock
+worker.pid
+
+# Raw third-party dumps: re-fetch with the scripts, do not redistribute
+data/raw/county_fandom.csv
+data/raw/co-est2025-alldata_source.csv
+data/raw/_browser_dumps/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.claude/
+data/raw/vividseats_*_raw.csv
+data/raw/trends_raw.csv
+data/raw/_cache/
+output/leaderboard.pending.csv

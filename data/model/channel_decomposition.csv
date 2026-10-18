@@ -1,0 +1,56 @@
+pair_rank,direction,units_measured,censored_units,model_coverage,detected_units,detected_coverage,testable,model_top_unit,model_top_share,measured_share_of_that_unit,raw_lo,raw_hi,model_share_excess_basis,excess_share_of_that_unit,excess_lo,excess_hi,supported_raw,supported_excess,verdict,measured_top_unit,measured_top_share
+1,IL->WI,5,1,1.0,4,1.0,True,Green Bay Packers,0.729,0.766,0.736,0.796,,,,,True,False,inconclusive (corrected measure lacks comparable units),Green Bay Packers,0.766
+1,WI->IL,5,3,0.76,2,0.71,False,Chicago Bears,0.925,0.976,0.968,0.982,0.995,0.874,0.838,0.905,True,True,inconclusive (too few detected units or low detected coverage),Chicago Bears,0.976
+2,MA->NY,10,6,0.98,4,0.65,False,New York Yankees,0.347,0.716,0.682,0.746,,,,,False,False,inconclusive (too few detected units or low detected coverage),New York Yankees,0.716
+2,NY->MA,6,2,1.0,4,0.99,True,Boston Celtics,0.382,0.225,0.205,0.25,0.418,0.303,0.274,0.334,False,True,model too high,New England Patriots,0.348
+3,MN->WI,2,1,0.82,1,0.81,False,Green Bay Packers,0.989,1.0,0.999,1.0,,,,,True,False,inconclusive (too few detected units or low detected coverage),Green Bay Packers,1.0
+3,WI->MN,3,1,0.99,2,0.9,False,Minnesota Vikings,0.664,0.694,0.658,0.729,0.731,0.613,0.576,0.645,True,True,inconclusive (too few detected units or low detected coverage),Minnesota Vikings,0.694
+4,MD->PA,5,2,0.78,3,0.72,False,Pittsburgh Steelers,0.771,0.455,0.431,0.475,0.834,0.466,0.443,0.488,False,False,inconclusive (too few detected units or low detected coverage),Pittsburgh Steelers,0.455
+4,PA->MD,7,1,0.92,6,0.89,True,Baltimore Ravens,0.834,0.334,0.313,0.356,0.919,0.339,0.31,0.373,False,False,model too high,Baltimore Ravens,0.334
+5,IL->MI,8,4,0.66,4,0.36,False,Detroit Pistons,0.454,0.001,0.0,0.003,,,,,False,False,inconclusive (too few detected units or low detected coverage),Michigan,0.56
+5,MI->IL,7,4,0.59,3,0.26,False,Chicago Bulls,0.432,0.001,0.0,0.001,,,,,False,False,inconclusive (too few detected units or low detected coverage),Chicago Bears,0.811
+6,CA->WA,5,0,0.99,5,0.99,True,Seattle Seahawks,0.946,0.355,0.323,0.381,0.971,0.58,0.537,0.617,False,False,model too high,Washington,0.481
+6,WA->CA,12,4,0.94,8,0.9,True,San Francisco 49ers,0.638,0.301,0.28,0.32,0.678,0.284,0.263,0.301,False,False,model too high,San Francisco 49ers,0.301
+7,OH->PA,8,2,0.91,6,0.85,True,Pittsburgh Steelers,0.66,0.506,0.48,0.534,0.734,0.545,0.513,0.578,False,False,model too high,Pittsburgh Steelers,0.506
+7,PA->OH,13,8,0.97,5,0.93,True,Cleveland Browns,0.556,0.214,0.195,0.233,0.585,0.305,0.285,0.326,False,False,model too high,Ohio,0.428
+8,IL->MO,5,2,0.86,3,0.8,False,St. Louis Cardinals,0.71,0.086,0.078,0.096,,,,,False,False,inconclusive (too few detected units or low detected coverage),Kansas City Chiefs,0.622
+8,MO->IL,2,1,0.14,1,0.1,False,Chicago Bears,0.769,0.999,0.999,1.0,,,,,False,False,inconclusive (too few detected units or low detected coverage),Chicago Bears,0.999
+9,MA->PA,7,4,0.98,3,0.16,False,Philadelphia 76ers,0.796,0.009,0.0,0.02,,,,,False,False,inconclusive (too few detected units or low detected coverage),Philadelphia Eagles,0.554
+9,PA->MA,5,2,0.97,3,0.97,True,Boston Celtics,0.855,0.315,0.288,0.345,0.859,0.378,0.35,0.411,False,False,model too high,New England Patriots,0.464
+10,GA->LA,7,4,1.0,3,1.0,True,New Orleans Saints,0.94,0.448,0.409,0.483,,,,,False,False,inconclusive (corrected measure lacks comparable units),New Orleans Saints,0.448
+10,LA->GA,2,2,0.95,0,0.0,False,Atlanta Falcons,0.995,0.438,0.0,1.0,,,,,True,False,inconclusive (too few detected units or low detected coverage),Atlanta Hawks,0.562
+11,IL->MN,4,1,0.93,3,0.92,True,Minnesota Vikings,0.891,0.302,0.279,0.322,0.906,0.324,0.302,0.347,False,False,model too high,Minnesota Twins,0.437
+11,MN->IL,3,1,0.73,2,0.66,False,Chicago Bears,0.867,0.925,0.914,0.935,0.958,0.711,0.678,0.74,True,False,inconclusive (too few detected units or low detected coverage),Chicago Bears,0.925
+12,NY->PA,10,1,0.98,9,0.83,True,Philadelphia Phillies,0.229,0.072,0.059,0.085,,,,,False,False,inconclusive (corrected measure lacks comparable units),Philadelphia Eagles,0.332
+12,PA->NY,11,5,0.81,6,0.46,False,New York Mets,0.397,0.203,0.18,0.224,,,,,False,False,inconclusive (too few detected units or low detected coverage),Buffalo Bills,0.255
+13,MI->OH,13,7,0.99,6,0.96,True,Cleveland Guardians,0.4,0.023,0.019,0.028,,,,,False,False,inconclusive (corrected measure lacks comparable units),Ohio,0.517
+13,OH->MI,8,4,0.98,4,0.95,True,Michigan,0.618,0.689,0.648,0.727,0.637,0.377,0.34,0.418,True,False,supported on raw only,Michigan,0.689
+14,MD->OH,5,3,0.95,2,0.91,False,Cleveland Browns,0.634,0.546,0.49,0.605,0.662,0.487,0.433,0.535,True,False,inconclusive (too few detected units or low detected coverage),Cleveland Browns,0.546
+14,OH->MD,7,5,0.98,2,0.94,False,Baltimore Ravens,0.959,0.624,0.543,0.705,0.983,0.661,0.593,0.725,False,False,inconclusive (too few detected units or low detected coverage),Baltimore Ravens,0.624
+15,PA->TX,20,14,0.99,6,0.85,True,Dallas Cowboys,0.813,0.591,0.56,0.621,0.986,0.423,0.396,0.448,False,False,model too high,Dallas Cowboys,0.591
+15,TX->PA,8,0,0.96,8,0.96,True,Philadelphia Eagles,0.701,0.505,0.482,0.529,0.764,0.347,0.32,0.37,False,False,model too high,Philadelphia Eagles,0.505
+16,CA->NV,4,2,0.98,2,0.92,False,Las Vegas Raiders,0.913,0.95,0.942,0.957,,,,,True,False,inconclusive (too few detected units or low detected coverage),Las Vegas Raiders,0.95
+16,NV->CA,12,6,0.92,6,0.46,False,San Francisco Giants,0.222,0.001,0.0,0.001,,,,,False,False,inconclusive (too few detected units or low detected coverage),Los Angeles Dodgers,0.243
+17,AZ->CA,20,10,0.97,10,0.83,True,Los Angeles Lakers,0.332,0.102,0.09,0.113,,,,,False,False,inconclusive (corrected measure lacks comparable units),California,0.217
+17,CA->AZ,5,1,1.0,4,0.97,True,Phoenix Suns,0.679,0.308,0.276,0.344,,,,,False,False,inconclusive (corrected measure lacks comparable units),Arizona,0.6
+18,FL->NY,14,5,0.99,9,0.79,False,New York Knicks,0.289,0.068,0.061,0.076,,,,,False,False,inconclusive (too few detected units or low detected coverage),New York Yankees,0.28
+18,NY->FL,16,5,0.99,11,0.98,True,Miami Heat,0.61,0.202,0.182,0.223,,,,,False,False,inconclusive (corrected measure lacks comparable units),Florida,0.235
+19,KS->MO,5,2,0.95,3,0.6,False,Missouri,0.464,0.09,0.08,0.105,,,,,False,False,inconclusive (too few detected units or low detected coverage),Kansas City Chiefs,0.692
+20,NV->MO,3,2,0.96,1,0.84,False,Kansas City Chiefs,0.87,0.99,0.98,1.0,,,,,True,False,inconclusive (too few detected units or low detected coverage),Kansas City Chiefs,0.99
+21,NJ->NY,11,1,0.78,10,0.77,False,New York Mets,0.335,0.286,0.261,0.311,,,,,True,False,inconclusive (too few detected units or low detected coverage),New York Mets,0.286
+21,NY->NJ,4,0,0.93,4,0.93,True,New Jersey Devils,0.408,0.509,0.473,0.541,,,,,True,False,inconclusive (corrected measure lacks comparable units),New Jersey Devils,0.509
+23,OK->TX,5,4,0.45,1,0.11,False,San Antonio Spurs,0.373,0.001,0.0,0.001,,,,,False,False,inconclusive (too few detected units or low detected coverage),Dallas Cowboys,0.996
+23,TX->OK,4,0,1.0,4,1.0,True,Oklahoma,0.617,0.502,0.467,0.539,0.719,0.808,0.784,0.832,True,True,supported,Oklahoma,0.502
+24,CO->MO,5,3,0.98,2,0.88,False,Kansas City Chiefs,0.841,0.788,0.76,0.813,,,,,True,False,inconclusive (too few detected units or low detected coverage),Kansas City Chiefs,0.788
+24,MO->CO,2,1,0.96,1,0.96,False,Denver Broncos,0.996,0.996,0.992,1.0,0.996,0.989,0.976,1.0,True,True,inconclusive (too few detected units or low detected coverage),Denver Broncos,0.996
+25,MA->NJ,3,3,0.98,0,0.0,False,New York Jets,0.845,0.437,0.0,1.0,,,,,True,False,inconclusive (too few detected units or low detected coverage),New York Jets,0.437
+25,NJ->MA,5,2,0.95,3,0.95,True,Boston Celtics,0.489,0.405,0.373,0.437,0.491,0.461,0.428,0.499,True,True,supported,Boston Celtics,0.405
+26,CO->NV,3,2,0.91,1,0.9,False,Las Vegas Raiders,0.993,0.995,0.99,1.0,,,,,True,False,inconclusive (too few detected units or low detected coverage),Las Vegas Raiders,0.995
+26,NV->CO,3,3,0.78,0,0.0,False,Denver Broncos,0.98,0.293,0.0,1.0,0.989,0.293,0.0,1.0,True,True,inconclusive (too few detected units or low detected coverage),Colorado Rockies,0.465
+27,NJ->PA,8,1,0.69,7,0.64,False,Philadelphia Eagles,0.333,0.527,0.5,0.553,,,,,False,False,inconclusive (too few detected units or low detected coverage),Philadelphia Eagles,0.527
+27,PA->NJ,3,3,0.8,0,0.0,False,New York Giants,0.79,0.598,0.0,1.0,,,,,True,False,inconclusive (too few detected units or low detected coverage),New York Giants,0.598
+28,IL->IN,6,1,0.79,5,0.79,False,Indiana,0.438,0.484,0.448,0.519,,,,,True,False,inconclusive (too few detected units or low detected coverage),Indiana,0.484
+28,IN->IL,7,3,0.81,4,0.76,False,Chicago Bears,0.254,0.577,0.549,0.607,,,,,False,False,inconclusive (too few detected units or low detected coverage),Chicago Bears,0.577
+29,ME->NY,2,1,0.38,1,0.35,False,New York Yankees,0.915,0.995,0.99,1.0,0.915,0.992,0.983,1.0,True,True,inconclusive (too few detected units or low detected coverage),New York Yankees,0.995
+30,FL->MA,6,2,1.0,4,0.99,True,Boston Celtics,0.615,0.224,0.202,0.248,0.656,0.298,0.269,0.329,False,False,model too high,New England Patriots,0.396
+30,MA->FL,9,4,0.93,5,0.9,True,Miami Heat,0.559,0.408,0.371,0.447,,,,,False,False,inconclusive (corrected measure lacks comparable units),Miami Heat,0.408

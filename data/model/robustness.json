@@ -1,0 +1,51 @@
+{
+ "n_mc": 800,
+ "seconds": 146,
+ "base_top1": "IL-WI",
+ "mc_top_by_P_rank1": [
+  [
+   "IL-WI",
+   0.669,
+   0.948
+  ],
+  [
+   "MA-NY",
+   0.164,
+   0.765
+  ],
+  [
+   "MN-WI",
+   0.092,
+   0.557
+  ],
+  [
+   "MD-PA",
+   0.022,
+   0.17
+  ],
+  [
+   "IL-MI",
+   0.018,
+   0.177
+  ],
+  [
+   "CA-WA",
+   0.015,
+   0.141
+  ],
+  [
+   "MA-PA",
+   0.007,
+   0.059
+  ],
+  [
+   "GA-LA",
+   0.007,
+   0.04
+  ]
+ ],
+ "variants_with_top1_rank_le_3": 21,
+ "n_variants": 24,
+ "removal_top1_retained_share": 0.3251741677994065,
+ "removal_top1_rank_after": 15
+}

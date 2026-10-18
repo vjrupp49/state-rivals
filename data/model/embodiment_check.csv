@@ -1,0 +1,41 @@
+unit,kind,home_state,observing_states,embodiment_index
+Ohio State,school,OH,19,0.876
+Minnesota Vikings,pro,MN,15,0.829
+Atlanta Falcons,pro,GA,12,0.824
+New York Yankees,pro,NY,25,0.806
+Green Bay Packers,pro,WI,11,0.801
+Buffalo Bills,pro,NY,28,0.751
+Army,school,NY,19,0.748
+Miami,school,FL,19,0.745
+Los Angeles Lakers,pro,CA,30,0.728
+Houston,school,TX,14,0.682
+Rice,school,TX,15,0.675
+San Francisco 49ers,pro,CA,28,0.672
+Orlando Magic,pro,FL,27,0.647
+New York Mets,pro,NY,14,0.629
+Dallas Cowboys,pro,TX,34,0.624
+Denver Broncos,pro,CO,22,0.618
+Golden State Warriors,pro,CA,20,0.616
+Liberty,school,VA,14,0.6
+Miami Dolphins,pro,FL,24,0.591
+New York Knicks,pro,NY,13,0.586
+Los Angeles Dodgers,pro,CA,16,0.582
+Detroit Lions,pro,MI,26,0.572
+Buffalo,school,NY,17,0.538
+Miami Heat,pro,FL,27,0.515
+Minnesota Twins,pro,MN,14,0.486
+Los Angeles Chargers,pro,CA,20,0.482
+Notre Dame,school,IN,10,0.468
+Chicago Bears,pro,IL,11,0.457
+Oklahoma City Thunder,pro,OK,11,0.413
+Los Angeles Angels,pro,CA,18,0.407
+Denver,school,CO,13,0.368
+Seattle Seahawks,pro,WA,16,0.353
+Cleveland Browns,pro,OH,21,0.329
+Cincinnati Bengals,pro,OH,22,0.29
+Indianapolis Colts,pro,IN,13,0.154
+Los Angeles Rams,pro,CA,21,0.123
+Detroit Tigers,pro,MI,13,0.089
+Tennessee Titans,pro,TN,16,-0.093
+Troy,school,AL,13,-0.16
+Navy,school,MD,10,-0.228
